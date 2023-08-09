@@ -1,0 +1,5498 @@
+[
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 140 - SEGAMAT",
+    "namaCalon": "SUBRAMANIAM A/L K.V SATHASIVAM",
+    "parti": "BN",
+    "bilanganUndi": 18584,
+    "status": null
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 140 - SEGAMAT",
+    "namaCalon": "SANTHARA KUMAR A/L RAMANAIDU",
+    "parti": "PKR",
+    "bilanganUndi": 24060,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 140 - SEGAMAT",
+    "namaCalon": "KHAIRUL FAIZI BIN AHMAD KAMIL",
+    "parti": "PAS",
+    "bilanganUndi": 2676,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 141 - SEKIJANG",
+    "namaCalon": "AYUB BIN RAHMAT",
+    "parti": "BN",
+    "bilanganUndi": 18278,
+    "status": null
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 141 - SEKIJANG",
+    "namaCalon": "NATRAH BINTI ISMAIL",
+    "parti": "PKR",
+    "bilanganUndi": 19559,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 142 - LABIS",
+    "namaCalon": "CHUA TEE YONG ",
+    "parti": "BN",
+    "bilanganUndi": 13567,
+    "status": null
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 142 - LABIS",
+    "namaCalon": "PANG HOK LIONG",
+    "parti": "PKR",
+    "bilanganUndi": 16977,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 142 - LABIS",
+    "namaCalon": "SARCHU BIN SAWAL",
+    "parti": "PAS",
+    "bilanganUndi": 2034,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 143 - PAGOH",
+    "namaCalon": "ISMAIL BIN MOHAMED",
+    "parti": "BN",
+    "bilanganUndi": 16631,
+    "status": null
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 143 - PAGOH",
+    "namaCalon": "MAHIADDIN BIN MD YASIN",
+    "parti": "PKR",
+    "bilanganUndi": 23558,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 143 - PAGOH",
+    "namaCalon": "AHMAD NAWFAL BIN MAHFODZ",
+    "parti": "PAS",
+    "bilanganUndi": 2483,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 144 - LEDANG",
+    "namaCalon": "HAMIM BIN SAMURI",
+    "parti": "BN",
+    "bilanganUndi": 26040,
+    "status": null
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 144 - LEDANG",
+    "namaCalon": "SYED IBRAHIM BIN SYED NOR",
+    "parti": "PKR",
+    "bilanganUndi": 34706,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 144 - LEDANG",
+    "namaCalon": "RUSMAN BIN KEMIN",
+    "parti": "PAS",
+    "bilanganUndi": 4668,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 145 - BAKRI",
+    "namaCalon": "KOH CHON CHAI",
+    "parti": "BN",
+    "bilanganUndi": 15507,
+    "status": null
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 145 - BAKRI",
+    "namaCalon": "ZARUL @ MOHAMAD ZAHRUL BIN SALLEH",
+    "parti": "PAS",
+    "bilanganUndi": 7575,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 145 - BAKRI",
+    "namaCalon": "YEO BEE YIN ",
+    "parti": "PKR",
+    "bilanganUndi": 38718,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 146 - MUAR",
+    "namaCalon": "RAZALI BIN IBRAHIM",
+    "parti": "BN",
+    "bilanganUndi": 15388,
+    "status": null
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 146 - MUAR",
+    "namaCalon": "SYED SADDIQ BIN SYED ABDUL RAHMAN",
+    "parti": "PKR",
+    "bilanganUndi": 22341,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 146 - MUAR",
+    "namaCalon": "ABDUL AZIZ BIN TALIB ",
+    "parti": "PAS",
+    "bilanganUndi": 4354,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 147 - PARIT SULONG",
+    "namaCalon": "NORAINI BINTI AHMAD",
+    "parti": "BN",
+    "bilanganUndi": 24481,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 147 - PARIT SULONG",
+    "namaCalon": "ANIS AFIDA BINTI MOHD AZLI",
+    "parti": "PKR",
+    "bilanganUndi": 18140,
+    "status": null
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 147 - PARIT SULONG",
+    "namaCalon": "AHMAD ROSDI BIN BAHARI",
+    "parti": "PAS",
+    "bilanganUndi": 7148,
+    "status": null
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 148 - AYER HITAM",
+    "namaCalon": "WEE KA SIONG",
+    "parti": "BN",
+    "bilanganUndi": 17076,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 148 - AYER HITAM",
+    "namaCalon": "MARDI BIN MARWAN",
+    "parti": "PAS",
+    "bilanganUndi": 4975,
+    "status": null
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 148 - AYER HITAM",
+    "namaCalon": "LIEW CHIN TONG",
+    "parti": "PKR",
+    "bilanganUndi": 16773,
+    "status": null
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 149 - SRI GADING",
+    "namaCalon": "AB AZIZ BIN KAPRAWI",
+    "parti": "BN",
+    "bilanganUndi": 18223,
+    "status": null
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 149 - SRI GADING",
+    "namaCalon": "SHARUDDIN BIN MD SALLEH ",
+    "parti": "PKR",
+    "bilanganUndi": 21511,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 149 - SRI GADING",
+    "namaCalon": "M ASH'ARI BIN SIDON",
+    "parti": "PAS",
+    "bilanganUndi": 4548,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 150 - BATU PAHAT",
+    "namaCalon": "HALIZA BINTI ABDULLAH",
+    "parti": "BN",
+    "bilanganUndi": 28035,
+    "status": null
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 150 - BATU PAHAT",
+    "namaCalon": "MAHFODZ BIN MOHAMED",
+    "parti": "PAS",
+    "bilanganUndi": 8173,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 150 - BATU PAHAT",
+    "namaCalon": "MOHD RASHID BIN HASNON",
+    "parti": "PKR",
+    "bilanganUndi": 45929,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 151 - SIMPANG RENGGAM",
+    "namaCalon": "LIANG TECK MENG",
+    "parti": "BN",
+    "bilanganUndi": 14682,
+    "status": null
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 151 - SIMPANG RENGGAM",
+    "namaCalon": "MASZLEE BIN MALIK",
+    "parti": "PKR",
+    "bilanganUndi": 18157,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 151 - SIMPANG RENGGAM",
+    "namaCalon": "MOHD JUBRI BIN SELAMAT ",
+    "parti": "PAS",
+    "bilanganUndi": 2983,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 152 - KLUANG",
+    "namaCalon": "GAN PING SHOU @ GAN PING SIEU",
+    "parti": "BN",
+    "bilanganUndi": 24618,
+    "status": null
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 152 - KLUANG",
+    "namaCalon": "WONG SHU QI",
+    "parti": "PKR",
+    "bilanganUndi": 47671,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 152 - KLUANG",
+    "namaCalon": "MUHAMMAD HASBULLAH BIN MD NAJIB ",
+    "parti": "PAS",
+    "bilanganUndi": 8242,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 153 - SEMBRONG",
+    "namaCalon": "HISHAMMUDDIN BIN DATUK HUSSEIN",
+    "parti": "BN",
+    "bilanganUndi": 21353,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 153 - SEMBRONG",
+    "namaCalon": "ONN BIN ABU BAKAR",
+    "parti": "PKR",
+    "bilanganUndi": 14691,
+    "status": null
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 154 - MERSING",
+    "namaCalon": "ABD. LATIFF BIN AHMAD",
+    "parti": "BN",
+    "bilanganUndi": 19806,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 154 - MERSING",
+    "namaCalon": "A. RAHMAN BIN A. HAMID",
+    "parti": "PAS",
+    "bilanganUndi": 6215,
+    "status": null
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 154 - MERSING",
+    "namaCalon": "MD. NASIR BIN HASHIM",
+    "parti": "PKR",
+    "bilanganUndi": 11347,
+    "status": null
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 155 - TENGGARA",
+    "namaCalon": "ADHAM BIN BABA",
+    "parti": "BN",
+    "bilanganUndi": 20142,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 155 - TENGGARA",
+    "namaCalon": "YUHANITA BINTI YUNAN",
+    "parti": "PAS",
+    "bilanganUndi": 2683,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 155 - TENGGARA",
+    "namaCalon": "NORJEPRI BIN MOHAMED JELANI",
+    "parti": "PKR",
+    "bilanganUndi": 14209,
+    "status": null
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 156 - KOTA TINGGI",
+    "namaCalon": "HALIMAH BINTI MOHD SADIQUE",
+    "parti": "BN",
+    "bilanganUndi": 26407,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 156 - KOTA TINGGI",
+    "namaCalon": "AZLINDA BINTI ABDUL LATIF ",
+    "parti": "PKR",
+    "bilanganUndi": 11786,
+    "status": null
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 157 - PENGERANG",
+    "namaCalon": "AZALINA BINTI OTHMAN",
+    "parti": "BN",
+    "bilanganUndi": 21829,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 157 - PENGERANG",
+    "namaCalon": "NORLIZA BINTI NGADIRAN",
+    "parti": "PKR",
+    "bilanganUndi": 10412,
+    "status": null
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 158 - TEBRAU",
+    "namaCalon": "HOU KOK CHUNG",
+    "parti": "BN",
+    "bilanganUndi": 27310,
+    "status": null
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 158 - TEBRAU",
+    "namaCalon": "CHOONG SHIAU YOON",
+    "parti": "PKR",
+    "bilanganUndi": 64535,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 158 - TEBRAU",
+    "namaCalon": "ABDULLAH BIN HUSIN",
+    "parti": "PAS",
+    "bilanganUndi": 12098,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 159 - PASIR GUDANG",
+    "namaCalon": "MOHAMED KHALED BIN NORDIN",
+    "parti": "BN",
+    "bilanganUndi": 36889,
+    "status": null
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 159 - PASIR GUDANG",
+    "namaCalon": "AB. AZIZ BIN ABDULLAH",
+    "parti": "PAS",
+    "bilanganUndi": 6278,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 159 - PASIR GUDANG",
+    "namaCalon": "HASSAN BIN ABDUL KARIM",
+    "parti": "PKR",
+    "bilanganUndi": 61615,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 159 - PASIR GUDANG",
+    "namaCalon": "SEY JOCK @ CHEE JOCK",
+    "parti": "BEBAS",
+    "bilanganUndi": 227,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 160 - JOHOR BAHRU",
+    "namaCalon": "SHARIL@SHAHRIR BIN AB SAMAD",
+    "parti": "BN",
+    "bilanganUndi": 30270,
+    "status": null
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 160 - JOHOR BAHRU",
+    "namaCalon": "AKMAL NASRULLAH BIN MOHD NASIR",
+    "parti": "PKR",
+    "bilanganUndi": 50052,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 161 - PULAI",
+    "namaCalon": "NUR JAZLAN BIN MOHAMED",
+    "parti": "BN",
+    "bilanganUndi": 26523,
+    "status": null
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 161 - PULAI",
+    "namaCalon": "MOHD MAZRI BIN YAHYA",
+    "parti": "PAS",
+    "bilanganUndi": 4332,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 161 - PULAI",
+    "namaCalon": "SALAHUDDIN BIN AYUB",
+    "parti": "PKR",
+    "bilanganUndi": 55447,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 161 - PULAI",
+    "namaCalon": "YAP KENG TAK",
+    "parti": "BEBAS",
+    "bilanganUndi": 591,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 162 - ISKANDAR PUTERI",
+    "namaCalon": "TEOH SEW HOCK",
+    "parti": "BN",
+    "bilanganUndi": 35862,
+    "status": null
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 162 - ISKANDAR PUTERI",
+    "namaCalon": "LIM KIT SIANG ",
+    "parti": "PKR",
+    "bilanganUndi": 80726,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 163 - KULAI",
+    "namaCalon": "TANG NAI SOON",
+    "parti": "BN",
+    "bilanganUndi": 22564,
+    "status": null
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 163 - KULAI",
+    "namaCalon": "TEO NIE CHING",
+    "parti": "PKR",
+    "bilanganUndi": 55312,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 163 - KULAI",
+    "namaCalon": "JUWAHIR BIN AMIN",
+    "parti": "PAS",
+    "bilanganUndi": 6667,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 164 - PONTIAN",
+    "namaCalon": "AHMAD BIN MASLAN",
+    "parti": "BN",
+    "bilanganUndi": 21132,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 164 - PONTIAN",
+    "namaCalon": "BAHAROM BIN MOHAMAD",
+    "parti": "PAS",
+    "bilanganUndi": 4295,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 164 - PONTIAN",
+    "namaCalon": "KARMAINE BIN SARDINI",
+    "parti": "PKR",
+    "bilanganUndi": 20299,
+    "status": null
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 165 - TANJUNG PIAI",
+    "namaCalon": "WEE JECK SENG",
+    "parti": "BN",
+    "bilanganUndi": 20731,
+    "status": null
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 165 - TANJUNG PIAI",
+    "namaCalon": "MD FARID BIN MD RAFIK",
+    "parti": "PKR",
+    "bilanganUndi": 21255,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "JOHOR",
+    "bahagianPilihanRaya": "P. 165 - TANJUNG PIAI",
+    "namaCalon": "NORDIN BIN OTHMAN",
+    "parti": "PAS",
+    "bilanganUndi": 2962,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 004 - LANGKAWI",
+    "namaCalon": "MAHATHIR BIN MOHAMAD",
+    "parti": "PKR",
+    "bilanganUndi": 18954,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 004 - LANGKAWI",
+    "namaCalon": "ZUBIR BIN AHMAD",
+    "parti": "PAS",
+    "bilanganUndi": 5512,
+    "status": null
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 004 - LANGKAWI",
+    "namaCalon": "NAWAWI BIN AHMAD",
+    "parti": "BN",
+    "bilanganUndi": 10061,
+    "status": null
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 005 - JERLUN",
+    "namaCalon": "OTHMAN BIN AZIZ",
+    "parti": "BN",
+    "bilanganUndi": 12413,
+    "status": null
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 005 - JERLUN",
+    "namaCalon": "ABD. GHANI BIN AHMAD",
+    "parti": "PAS",
+    "bilanganUndi": 12829,
+    "status": null
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 005 - JERLUN",
+    "namaCalon": "MUKHRIZ MAHATHIR",
+    "parti": "PKR",
+    "bilanganUndi": 18695,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 006 - KUBANG PASU",
+    "namaCalon": "AMIRUDDIN BIN HAMZAH",
+    "parti": "PKR",
+    "bilanganUndi": 29984,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 006 - KUBANG PASU",
+    "namaCalon": "NORHAFIZA BINTI FADZIL",
+    "parti": "PAS",
+    "bilanganUndi": 13375,
+    "status": null
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 006 - KUBANG PASU",
+    "namaCalon": "MOHD JOHARI BIN BAHARUM",
+    "parti": "BN",
+    "bilanganUndi": 16975,
+    "status": null
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 007 - PADANG TERAP",
+    "namaCalon": "MOHAMAD AZAM BIN ABD MAJID @ ABD AZIZ",
+    "parti": "PAS",
+    "bilanganUndi": 15285,
+    "status": null
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 007 - PADANG TERAP",
+    "namaCalon": "MOHD KHAIRIZAL BIN KHAZALI",
+    "parti": "PKR",
+    "bilanganUndi": 7254,
+    "status": null
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 007 - PADANG TERAP",
+    "namaCalon": "MAHDZIR BIN KHALID",
+    "parti": "BN",
+    "bilanganUndi": 16384,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 008 - POKOK SENA",
+    "namaCalon": "MUHAMAD RADHI BIN MAT DIN",
+    "parti": "PAS",
+    "bilanganUndi": 23401,
+    "status": null
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 008 - POKOK SENA",
+    "namaCalon": "SAID ALI BIN SAID RASTAN",
+    "parti": "BN",
+    "bilanganUndi": 18390,
+    "status": null
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 008 - POKOK SENA",
+    "namaCalon": "MAHFUZ BIN OMAR",
+    "parti": "PKR",
+    "bilanganUndi": 28959,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 009 - ALOR SETAR",
+    "namaCalon": "MUHAMMAD AMINUR SHAFIQ BIN MOHAMAD ABDUH",
+    "parti": "PAS",
+    "bilanganUndi": 17275,
+    "status": null
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 009 - ALOR SETAR",
+    "namaCalon": "YOO WEI HOW",
+    "parti": "BN",
+    "bilanganUndi": 14181,
+    "status": null
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 009 - ALOR SETAR",
+    "namaCalon": "CHAN MING KAI",
+    "parti": "PKR",
+    "bilanganUndi": 32475,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 010 - KUALA KEDAH",
+    "namaCalon": "MUHAMAD RIDUAN BIN OTHMAN",
+    "parti": "PAS",
+    "bilanganUndi": 23143,
+    "status": null
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 010 - KUALA KEDAH",
+    "namaCalon": "ABDULLAH HASNAN BIN KAMARUDDIN",
+    "parti": "BN",
+    "bilanganUndi": 19400,
+    "status": null
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 010 - KUALA KEDAH",
+    "namaCalon": "AZMAN BIN ISMAIL",
+    "parti": "PKR",
+    "bilanganUndi": 36624,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 011 - PENDANG",
+    "namaCalon": "ABDUL MALIK BIN MANAF",
+    "parti": "BEBAS",
+    "bilanganUndi": 81,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 011 - PENDANG",
+    "namaCalon": "AWANG BIN HASHIM ",
+    "parti": "PAS",
+    "bilanganUndi": 26536,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 011 - PENDANG",
+    "namaCalon": "WAN SAIFULRUDDIN BIN WAN JAN",
+    "parti": "PKR",
+    "bilanganUndi": 14901,
+    "status": null
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 011 - PENDANG",
+    "namaCalon": "OTHMAN BIN ABDUL",
+    "parti": "BN",
+    "bilanganUndi": 20728,
+    "status": null
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 012 - JERAI",
+    "namaCalon": "JAMIL KHIR BIN BAHAROM",
+    "parti": "BN",
+    "bilanganUndi": 21773,
+    "status": null
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 012 - JERAI",
+    "namaCalon": "SABRI BIN AZIT",
+    "parti": "PAS",
+    "bilanganUndi": 22312,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 012 - JERAI",
+    "namaCalon": "AKHRAMSYAH MUAMMAR UBAIDAH BIN SANUSI",
+    "parti": "PKR",
+    "bilanganUndi": 21651,
+    "status": null
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 013 - SIK",
+    "namaCalon": "AZLI BIN UDA",
+    "parti": "PKR",
+    "bilanganUndi": 6970,
+    "status": null
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 013 - SIK",
+    "namaCalon": "AHMAD TARMIZI BIN SULAIMAN",
+    "parti": "PAS",
+    "bilanganUndi": 20088,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 013 - SIK",
+    "namaCalon": "MANSOR BIN ABD RAHMAN",
+    "parti": "BN",
+    "bilanganUndi": 14870,
+    "status": null
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 014 - MERBOK",
+    "namaCalon": "NOR AZRINA BINTI SURIP",
+    "parti": "PKR",
+    "bilanganUndi": 30902,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 014 - MERBOK",
+    "namaCalon": "AHMAD FAUZI BIN RAMLI",
+    "parti": "PAS",
+    "bilanganUndi": 19618,
+    "status": null
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 014 - MERBOK",
+    "namaCalon": "TAJUL URUS BIN MAT ZAIN",
+    "parti": "BN",
+    "bilanganUndi": 20830,
+    "status": null
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 015 - SUNGAI PETANI",
+    "namaCalon": "SRITHARAN A/L PICHATHU",
+    "parti": "PRM",
+    "bilanganUndi": 279,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 015 - SUNGAI PETANI",
+    "namaCalon": "JOHARI BIN ABDUL",
+    "parti": "PKR",
+    "bilanganUndi": 45532,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 015 - SUNGAI PETANI",
+    "namaCalon": "SHARIR BIN LONG",
+    "parti": "PAS",
+    "bilanganUndi": 22760,
+    "status": null
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 015 - SUNGAI PETANI",
+    "namaCalon": "SHAHANIM BINTI MOHAMAD YUSOFF",
+    "parti": "BN",
+    "bilanganUndi": 23963,
+    "status": null
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 016 - BALING",
+    "namaCalon": "HASSAN BIN SAAD",
+    "parti": "PAS",
+    "bilanganUndi": 37483,
+    "status": null
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 016 - BALING",
+    "namaCalon": "ABDUL AZEEZ BIN ABDUL RAHIM",
+    "parti": "BN",
+    "bilanganUndi": 38557,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 016 - BALING",
+    "namaCalon": "MOHD TAUFIK BIN YAACOB",
+    "parti": "PKR",
+    "bilanganUndi": 14472,
+    "status": null
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 017 - PADANG SERAI",
+    "namaCalon": "LEONG YONG KONG",
+    "parti": "BN",
+    "bilanganUndi": 15449,
+    "status": null
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 017 - PADANG SERAI",
+    "namaCalon": "KARUPAIYA A/L MUTUSAMI",
+    "parti": "PKR",
+    "bilanganUndi": 31724,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 017 - PADANG SERAI",
+    "namaCalon": "MUHAMAD SOBRI BIN OSMAN",
+    "parti": "PAS",
+    "bilanganUndi": 22911,
+    "status": null
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 018 - KULIM-BANDAR BAHARU",
+    "namaCalon": "SAIFUDDIN NASUTION BIN ISMAIL",
+    "parti": "PKR",
+    "bilanganUndi": 23159,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 018 - KULIM-BANDAR BAHARU",
+    "namaCalon": "ABDUL RAMAN BIN ABDUL RAZAK",
+    "parti": "PAS",
+    "bilanganUndi": 12885,
+    "status": null
+  },
+  {
+    "negeri": "KEDAH",
+    "bahagianPilihanRaya": "P. 018 - KULIM-BANDAR BAHARU",
+    "namaCalon": "ABD AZIZ BIN SHEIKH FADZIR",
+    "parti": "BN",
+    "bilanganUndi": 18299,
+    "status": null
+  },
+  {
+    "negeri": "KELANTAN",
+    "bahagianPilihanRaya": "P. 019 - TUMPAT",
+    "namaCalon": "CHE ABDULLAH BIN MAT NAWI",
+    "parti": "PAS",
+    "bilanganUndi": 47041,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "KELANTAN",
+    "bahagianPilihanRaya": "P. 019 - TUMPAT",
+    "namaCalon": "WAN JOHANI BIN WAN HUSSIN",
+    "parti": "BN",
+    "bilanganUndi": 29541,
+    "status": null
+  },
+  {
+    "negeri": "KELANTAN",
+    "bahagianPilihanRaya": "P. 019 - TUMPAT",
+    "namaCalon": "NORDIN BIN SALLEH",
+    "parti": "PKR",
+    "bilanganUndi": 10003,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "KELANTAN",
+    "bahagianPilihanRaya": "P. 020 - PENGKALAN CHEPA",
+    "namaCalon": "AHMAD MARZUK BIN SHAARY",
+    "parti": "PAS",
+    "bilanganUndi": 32592,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "KELANTAN",
+    "bahagianPilihanRaya": "P. 020 - PENGKALAN CHEPA",
+    "namaCalon": "ZALUZI BIN SULAIMAN",
+    "parti": "BN",
+    "bilanganUndi": 19360,
+    "status": null
+  },
+  {
+    "negeri": "KELANTAN",
+    "bahagianPilihanRaya": "P. 020 - PENGKALAN CHEPA",
+    "namaCalon": "MOHAMAD BIN IBRAHIM",
+    "parti": "PKR",
+    "bilanganUndi": 7435,
+    "status": null
+  },
+  {
+    "negeri": "KELANTAN",
+    "bahagianPilihanRaya": "P. 021 - KOTA BHARU",
+    "namaCalon": "TAKIYUDDIN BIN HASSAN",
+    "parti": "PAS",
+    "bilanganUndi": 28291,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "KELANTAN",
+    "bahagianPilihanRaya": "P. 021 - KOTA BHARU",
+    "namaCalon": "FIKHRAN HAMSHI BIN MOHAMAD FATMI",
+    "parti": "BN",
+    "bilanganUndi": 16256,
+    "status": null
+  },
+  {
+    "negeri": "KELANTAN",
+    "bahagianPilihanRaya": "P. 021 - KOTA BHARU",
+    "namaCalon": "HUSAM BIN MUSA",
+    "parti": "PKR",
+    "bilanganUndi": 22422,
+    "status": null
+  },
+  {
+    "negeri": "KELANTAN",
+    "bahagianPilihanRaya": "P. 022 - PASIR MAS",
+    "namaCalon": "AHMAD FADHLI BIN SHAARI",
+    "parti": "PAS",
+    "bilanganUndi": 28080,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "KELANTAN",
+    "bahagianPilihanRaya": "P. 022 - PASIR MAS",
+    "namaCalon": "NOR AZMAWI BIN AB RAHMAN",
+    "parti": "BN",
+    "bilanganUndi": 15005,
+    "status": null
+  },
+  {
+    "negeri": "KELANTAN",
+    "bahagianPilihanRaya": "P. 022 - PASIR MAS",
+    "namaCalon": "CHE UJANG BIN CHE DAUD",
+    "parti": "PKR",
+    "bilanganUndi": 5093,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "KELANTAN",
+    "bahagianPilihanRaya": "P. 022 - PASIR MAS",
+    "namaCalon": "IBRAHIM BIN ALI",
+    "parti": "BEBAS",
+    "bilanganUndi": 5373,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "KELANTAN",
+    "bahagianPilihanRaya": "P. 023 - RANTAU PANJANG",
+    "namaCalon": "SITI ZAILAH BINTI MOHD YUSOFF",
+    "parti": "PAS",
+    "bilanganUndi": 24581,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "KELANTAN",
+    "bahagianPilihanRaya": "P. 023 - RANTAU PANJANG",
+    "namaCalon": "ABDULLAH BIN MAT YASIM",
+    "parti": "BN",
+    "bilanganUndi": 18431,
+    "status": null
+  },
+  {
+    "negeri": "KELANTAN",
+    "bahagianPilihanRaya": "P. 023 - RANTAU PANJANG",
+    "namaCalon": "WAN SHAH JIHAN BIN WAN DIN",
+    "parti": "PKR",
+    "bilanganUndi": 5361,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "KELANTAN",
+    "bahagianPilihanRaya": "P. 024 - KUBANG KERIAN",
+    "namaCalon": "TUAN IBRAHIM BIN TUAN MAN",
+    "parti": "PAS",
+    "bilanganUndi": 35620,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "KELANTAN",
+    "bahagianPilihanRaya": "P. 024 - KUBANG KERIAN",
+    "namaCalon": "MUHAMMAD BIN ABDUL GHANI",
+    "parti": "BN",
+    "bilanganUndi": 16251,
+    "status": null
+  },
+  {
+    "negeri": "KELANTAN",
+    "bahagianPilihanRaya": "P. 024 - KUBANG KERIAN",
+    "namaCalon": "ABDUL HALIM BIN YUSOF",
+    "parti": "PKR",
+    "bilanganUndi": 11557,
+    "status": null
+  },
+  {
+    "negeri": "KELANTAN",
+    "bahagianPilihanRaya": "P. 025 - BACHOK",
+    "namaCalon": "NIK MOHAMAD ABDUH BIN NIK ABDUL AZIZ",
+    "parti": "PAS",
+    "bilanganUndi": 36188,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "KELANTAN",
+    "bahagianPilihanRaya": "P. 025 - BACHOK",
+    "namaCalon": "AWANG ADEK BIN HUSSIN ",
+    "parti": "BN",
+    "bilanganUndi": 32896,
+    "status": null
+  },
+  {
+    "negeri": "KELANTAN",
+    "bahagianPilihanRaya": "P. 025 - BACHOK",
+    "namaCalon": "MOHD ZULKIFLI BIN HAJI ZAKARIA",
+    "parti": "PKR",
+    "bilanganUndi": 4880,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "KELANTAN",
+    "bahagianPilihanRaya": "P. 026 - KETEREH",
+    "namaCalon": "WAN ISMAIL BIN WAN JUSOH",
+    "parti": "PAS",
+    "bilanganUndi": 20841,
+    "status": null
+  },
+  {
+    "negeri": "KELANTAN",
+    "bahagianPilihanRaya": "P. 026 - KETEREH",
+    "namaCalon": "ANNUAR BIN MUSA ",
+    "parti": "BN",
+    "bilanganUndi": 25467,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "KELANTAN",
+    "bahagianPilihanRaya": "P. 026 - KETEREH",
+    "namaCalon": "MOHD RADZI BIN MD JIDIN",
+    "parti": "PKR",
+    "bilanganUndi": 6799,
+    "status": null
+  },
+  {
+    "negeri": "KELANTAN",
+    "bahagianPilihanRaya": "P. 027 - TANAH MERAH",
+    "namaCalon": "JOHARI BIN MAT",
+    "parti": "PAS",
+    "bilanganUndi": 25223,
+    "status": null
+  },
+  {
+    "negeri": "KELANTAN",
+    "bahagianPilihanRaya": "P. 027 - TANAH MERAH",
+    "namaCalon": "IKMAL HISHAM BIN ABDUL AZIZ",
+    "parti": "BN",
+    "bilanganUndi": 28152,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "KELANTAN",
+    "bahagianPilihanRaya": "P. 027 - TANAH MERAH",
+    "namaCalon": "MOHAMAD FAUZI BIN ZAKARIA",
+    "parti": "PKR",
+    "bilanganUndi": 4747,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "KELANTAN",
+    "bahagianPilihanRaya": "P. 028 - PASIR PUTEH",
+    "namaCalon": "NIK MUHAMMAD ZAWAWI BIN SALLEH",
+    "parti": "PAS",
+    "bilanganUndi": 32307,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "KELANTAN",
+    "bahagianPilihanRaya": "P. 028 - PASIR PUTEH",
+    "namaCalon": "ASYRAF WAJDI BIN DUSUKI",
+    "parti": "BN",
+    "bilanganUndi": 30947,
+    "status": null
+  },
+  {
+    "negeri": "KELANTAN",
+    "bahagianPilihanRaya": "P. 028 - PASIR PUTEH",
+    "namaCalon": "KAMARUDIN BIN MD NOR",
+    "parti": "PKR",
+    "bilanganUndi": 4896,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "KELANTAN",
+    "bahagianPilihanRaya": "P. 029 - MACHANG",
+    "namaCalon": "ZULKIFLI BIN MAMAT",
+    "parti": "PAS",
+    "bilanganUndi": 23252,
+    "status": null
+  },
+  {
+    "negeri": "KELANTAN",
+    "bahagianPilihanRaya": "P. 029 - MACHANG",
+    "namaCalon": "AHMAD JAZLAN BIN YAAKUB",
+    "parti": "BN",
+    "bilanganUndi": 26076,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "KELANTAN",
+    "bahagianPilihanRaya": "P. 029 - MACHANG",
+    "namaCalon": "SAZMI B. MIAH",
+    "parti": "PKR",
+    "bilanganUndi": 5695,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "KELANTAN",
+    "bahagianPilihanRaya": "P. 030 - JELI",
+    "namaCalon": "MOHAMAD BIN HAMID",
+    "parti": "PAS",
+    "bilanganUndi": 15018,
+    "status": null
+  },
+  {
+    "negeri": "KELANTAN",
+    "bahagianPilihanRaya": "P. 030 - JELI",
+    "namaCalon": "MUSTAPA BIN MOHAMED",
+    "parti": "BN",
+    "bilanganUndi": 21665,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "KELANTAN",
+    "bahagianPilihanRaya": "P. 030 - JELI",
+    "namaCalon": "AZRAN BIN DERAMAN",
+    "parti": "PKR",
+    "bilanganUndi": 2078,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "KELANTAN",
+    "bahagianPilihanRaya": "P. 031 - KUALA KRAI",
+    "namaCalon": "ABDUL LATIFF BIN ABDUL RAHMAN",
+    "parti": "PAS",
+    "bilanganUndi": 28903,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "KELANTAN",
+    "bahagianPilihanRaya": "P. 031 - KUALA KRAI",
+    "namaCalon": "RAMZI BIN AB RAHMAN",
+    "parti": "BN",
+    "bilanganUndi": 20911,
+    "status": null
+  },
+  {
+    "negeri": "KELANTAN",
+    "bahagianPilihanRaya": "P. 031 - KUALA KRAI",
+    "namaCalon": "MOHD YAZID BIN ABDULLAH",
+    "parti": "PKR",
+    "bilanganUndi": 5173,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "KELANTAN",
+    "bahagianPilihanRaya": "P. 032 - GUA MUSANG",
+    "namaCalon": "ABDULLAH BIN HUSSEIN",
+    "parti": "PAS",
+    "bilanganUndi": 15513,
+    "status": null
+  },
+  {
+    "negeri": "KELANTAN",
+    "bahagianPilihanRaya": "P. 032 - GUA MUSANG",
+    "namaCalon": "TENGKU RAZALEIGH BIN TENGKU MOHD HAMZAH",
+    "parti": "BN",
+    "bilanganUndi": 19426,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "KELANTAN",
+    "bahagianPilihanRaya": "P. 032 - GUA MUSANG",
+    "namaCalon": "MOHD NOR BIN HUSSIN",
+    "parti": "PKR",
+    "bilanganUndi": 4997,
+    "status": null
+  },
+  {
+    "negeri": "MELAKA",
+    "bahagianPilihanRaya": "P. 134 - MASJID TANAH",
+    "namaCalon": "SABIRIN BIN JA'AFAR",
+    "parti": "PKR",
+    "bilanganUndi": 14739,
+    "status": null
+  },
+  {
+    "negeri": "MELAKA",
+    "bahagianPilihanRaya": "P. 134 - MASJID TANAH",
+    "namaCalon": "MAS ERMIEYATI BINTI SAMSUDIN",
+    "parti": "BN",
+    "bilanganUndi": 22898,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "MELAKA",
+    "bahagianPilihanRaya": "P. 134 - MASJID TANAH",
+    "namaCalon": "MOHD NASIR BIN OTHMAN",
+    "parti": "PAS",
+    "bilanganUndi": 4688,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "MELAKA",
+    "bahagianPilihanRaya": "P. 135 - ALOR GAJAH",
+    "namaCalon": "WONG NAI CHEE",
+    "parti": "BN",
+    "bilanganUndi": 22350,
+    "status": null
+  },
+  {
+    "negeri": "MELAKA",
+    "bahagianPilihanRaya": "P. 135 - ALOR GAJAH",
+    "namaCalon": "MOHD REDZUAN BIN MD YUSOF",
+    "parti": "PKR",
+    "bilanganUndi": 29330,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "MELAKA",
+    "bahagianPilihanRaya": "P. 135 - ALOR GAJAH",
+    "namaCalon": "MOHAMMAD NAZREE BIN MOHAMMAD ARIS",
+    "parti": "PAS",
+    "bilanganUndi": 6135,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "MELAKA",
+    "bahagianPilihanRaya": "P. 136 - TANGGA BATU",
+    "namaCalon": "RUSNAH BINTI ALUAI",
+    "parti": "PKR",
+    "bilanganUndi": 32420,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "MELAKA",
+    "bahagianPilihanRaya": "P. 136 - TANGGA BATU",
+    "namaCalon": "ZULKIFLI BIN ISMAIL",
+    "parti": "PAS",
+    "bilanganUndi": 8961,
+    "status": null
+  },
+  {
+    "negeri": "MELAKA",
+    "bahagianPilihanRaya": "P. 136 - TANGGA BATU",
+    "namaCalon": "ZALI BIN MAT YASIN",
+    "parti": "BN",
+    "bilanganUndi": 27761,
+    "status": null
+  },
+  {
+    "negeri": "MELAKA",
+    "bahagianPilihanRaya": "P. 137 - HANG TUAH JAYA",
+    "namaCalon": "MOHD ALI BIN MOHD RUSTAM",
+    "parti": "BN",
+    "bilanganUndi": 30427,
+    "status": null
+  },
+  {
+    "negeri": "MELAKA",
+    "bahagianPilihanRaya": "P. 137 - HANG TUAH JAYA",
+    "namaCalon": "MD KHALID BIN KASSIM",
+    "parti": "PAS",
+    "bilanganUndi": 7089,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "MELAKA",
+    "bahagianPilihanRaya": "P. 137 - HANG TUAH JAYA",
+    "namaCalon": "SHAMSUL ISKANDAR @ YUSRE BIN MOHD AKIN ",
+    "parti": "PKR",
+    "bilanganUndi": 39067,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "MELAKA",
+    "bahagianPilihanRaya": "P. 138 - KOTA MELAKA",
+    "namaCalon": "KHOO POAY TIONG",
+    "parti": "PKR",
+    "bilanganUndi": 76518,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "MELAKA",
+    "bahagianPilihanRaya": "P. 138 - KOTA MELAKA",
+    "namaCalon": "CHOO WEI SERN",
+    "parti": "BN",
+    "bilanganUndi": 27343,
+    "status": null
+  },
+  {
+    "negeri": "MELAKA",
+    "bahagianPilihanRaya": "P. 138 - KOTA MELAKA",
+    "namaCalon": "GOH LEONG SAN",
+    "parti": "BEBAS",
+    "bilanganUndi": 1415,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "MELAKA",
+    "bahagianPilihanRaya": "P. 139 - JASIN",
+    "namaCalon": "AHMAD BIN HAMZAH",
+    "parti": "BN",
+    "bilanganUndi": 26560,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "MELAKA",
+    "bahagianPilihanRaya": "P. 139 - JASIN",
+    "namaCalon": "KHAIRUDDIN BIN ABU HASSAN ",
+    "parti": "PKR",
+    "bilanganUndi": 26341,
+    "status": null
+  },
+  {
+    "negeri": "MELAKA",
+    "bahagianPilihanRaya": "P. 139 - JASIN",
+    "namaCalon": "ABD. ALIM BIN SHAPIE",
+    "parti": "PAS",
+    "bilanganUndi": 8860,
+    "status": null
+  },
+  {
+    "negeri": "NEGERI SEMBILAN",
+    "bahagianPilihanRaya": "P. 126 - JELEBU",
+    "namaCalon": "JALALUDDIN BIN ALIAS",
+    "parti": "BN",
+    "bilanganUndi": 19062,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "NEGERI SEMBILAN",
+    "bahagianPilihanRaya": "P. 126 - JELEBU",
+    "namaCalon": "MUSTAFAR BIN AB KADIR",
+    "parti": "PKR",
+    "bilanganUndi": 17017,
+    "status": null
+  },
+  {
+    "negeri": "NEGERI SEMBILAN",
+    "bahagianPilihanRaya": "P. 126 - JELEBU",
+    "namaCalon": "NORMAN BIN IPIN",
+    "parti": "PAS",
+    "bilanganUndi": 2878,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "NEGERI SEMBILAN",
+    "bahagianPilihanRaya": "P. 127 - JEMPOL",
+    "namaCalon": "HAJI MOHD SALIM BIN SHARIF @ MOHD SHARIF",
+    "parti": "BN",
+    "bilanganUndi": 26819,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "NEGERI SEMBILAN",
+    "bahagianPilihanRaya": "P. 127 - JEMPOL",
+    "namaCalon": "KAMARULZAMAN BIN KAMDIAS",
+    "parti": "PKR",
+    "bilanganUndi": 25188,
+    "status": null
+  },
+  {
+    "negeri": "NEGERI SEMBILAN",
+    "bahagianPilihanRaya": "P. 127 - JEMPOL",
+    "namaCalon": "MUSTAFFA BIN DAHARUN",
+    "parti": "PAS",
+    "bilanganUndi": 5267,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "NEGERI SEMBILAN",
+    "bahagianPilihanRaya": "P. 128 - SEREMBAN",
+    "namaCalon": "CHONG SIN WOON",
+    "parti": "BN",
+    "bilanganUndi": 24809,
+    "status": null
+  },
+  {
+    "negeri": "NEGERI SEMBILAN",
+    "bahagianPilihanRaya": "P. 128 - SEREMBAN",
+    "namaCalon": "LOKE SIEW FOOK",
+    "parti": "PKR",
+    "bilanganUndi": 55503,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "NEGERI SEMBILAN",
+    "bahagianPilihanRaya": "P. 128 - SEREMBAN",
+    "namaCalon": "SHARIFUDDIN BIN AHMAD",
+    "parti": "PAS",
+    "bilanganUndi": 11506,
+    "status": null
+  },
+  {
+    "negeri": "NEGERI SEMBILAN",
+    "bahagianPilihanRaya": "P. 129 - KUALA PILAH",
+    "namaCalon": "HASAN BIN MALEK",
+    "parti": "BN",
+    "bilanganUndi": 17845,
+    "status": null
+  },
+  {
+    "negeri": "NEGERI SEMBILAN",
+    "bahagianPilihanRaya": "P. 129 - KUALA PILAH",
+    "namaCalon": "RAFIEI BIN MUSTAPHA ",
+    "parti": "PAS",
+    "bilanganUndi": 4347,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "NEGERI SEMBILAN",
+    "bahagianPilihanRaya": "P. 129 - KUALA PILAH",
+    "namaCalon": "EDDIN SYAZLEE BIN SHITH ",
+    "parti": "PKR",
+    "bilanganUndi": 18045,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "NEGERI SEMBILAN",
+    "bahagianPilihanRaya": "P. 130 - RASAH",
+    "namaCalon": "NG KIAN NAM ",
+    "parti": "BN",
+    "bilanganUndi": 14939,
+    "status": null
+  },
+  {
+    "negeri": "NEGERI SEMBILAN",
+    "bahagianPilihanRaya": "P. 130 - RASAH",
+    "namaCalon": "CHA KEE CHIN",
+    "parti": "PKR",
+    "bilanganUndi": 61806,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "NEGERI SEMBILAN",
+    "bahagianPilihanRaya": "P. 130 - RASAH",
+    "namaCalon": "DAVID DASS A/L ASEERPATHAM",
+    "parti": "PAP",
+    "bilanganUndi": 302,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "NEGERI SEMBILAN",
+    "bahagianPilihanRaya": "P. 130 - RASAH",
+    "namaCalon": "MOHD KHAIRIL ANUAR BIN MOHD WAFA ",
+    "parti": "PAS",
+    "bilanganUndi": 8260,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "NEGERI SEMBILAN",
+    "bahagianPilihanRaya": "P. 131 - REMBAU",
+    "namaCalon": "MUSTAFA BIN DOLAH",
+    "parti": "PAS",
+    "bilanganUndi": 6028,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "NEGERI SEMBILAN",
+    "bahagianPilihanRaya": "P. 131 - REMBAU",
+    "namaCalon": "KHAIRY JAMALUDDIN ABU BAKAR",
+    "parti": "BN",
+    "bilanganUndi": 36096,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "NEGERI SEMBILAN",
+    "bahagianPilihanRaya": "P. 131 - REMBAU",
+    "namaCalon": "ROSELI BIN ABDUL GANI",
+    "parti": "PKR",
+    "bilanganUndi": 31732,
+    "status": null
+  },
+  {
+    "negeri": "NEGERI SEMBILAN",
+    "bahagianPilihanRaya": "P. 132 - PORT DICKSON",
+    "namaCalon": "MOGAN A/L VELAYATHAM",
+    "parti": "BN",
+    "bilanganUndi": 18515,
+    "status": null
+  },
+  {
+    "negeri": "NEGERI SEMBILAN",
+    "bahagianPilihanRaya": "P. 132 - PORT DICKSON",
+    "namaCalon": "MAHFUZ BIN ROSLAN ",
+    "parti": "PAS",
+    "bilanganUndi": 6594,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "NEGERI SEMBILAN",
+    "bahagianPilihanRaya": "P. 132 - PORT DICKSON",
+    "namaCalon": "DANYAL BALAGOPAL ABDULLAH",
+    "parti": "PKR",
+    "bilanganUndi": 36225,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "NEGERI SEMBILAN",
+    "bahagianPilihanRaya": "P. 133 - TAMPIN",
+    "namaCalon": "SHAZIMAN BIN ABU MANSOR",
+    "parti": "BN",
+    "bilanganUndi": 21433,
+    "status": null
+  },
+  {
+    "negeri": "NEGERI SEMBILAN",
+    "bahagianPilihanRaya": "P. 133 - TAMPIN",
+    "namaCalon": "ABDUL HALIM BIN ABU BAKAR",
+    "parti": "PAS",
+    "bilanganUndi": 4598,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "NEGERI SEMBILAN",
+    "bahagianPilihanRaya": "P. 133 - TAMPIN",
+    "namaCalon": "HASAN BIN BAHROM",
+    "parti": "PKR",
+    "bilanganUndi": 22435,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 078 - CAMERON HIGHLANDS",
+    "namaCalon": "WAN MAHADIR BIN WAN MAHMUD",
+    "parti": "PAS",
+    "bilanganUndi": 3587,
+    "status": null
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 078 - CAMERON HIGHLANDS",
+    "namaCalon": "SIVARAJ A/L CHANDRAN",
+    "parti": "BN",
+    "bilanganUndi": 10307,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 078 - CAMERON HIGHLANDS",
+    "namaCalon": "MANOGARAN MARIMUTHU",
+    "parti": "PKR",
+    "bilanganUndi": 9710,
+    "status": null
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 078 - CAMERON HIGHLANDS",
+    "namaCalon": "SURESH KUMAR A/L BALASUBRAMANIAM",
+    "parti": "PSM",
+    "bilanganUndi": 680,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 078 - CAMERON HIGHLANDS",
+    "namaCalon": "MOHD TAHIR BIN HAJI KASSIM",
+    "parti": "BERJASA",
+    "bilanganUndi": 81,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 079 - LIPIS",
+    "namaCalon": "BADARUDIN BIN ABD RAHAMAN",
+    "parti": "PKR",
+    "bilanganUndi": 7426,
+    "status": null
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 079 - LIPIS",
+    "namaCalon": "ABDUL RAHMAN BIN MOHAMAD",
+    "parti": "BN",
+    "bilanganUndi": 13995,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 079 - LIPIS",
+    "namaCalon": "SOBIRIN BIN HJ DULI",
+    "parti": "PAS",
+    "bilanganUndi": 6671,
+    "status": null
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 080 - RAUB",
+    "namaCalon": "TENGKU ZULPURI SHAH BIN RAJA PUJI",
+    "parti": "PKR",
+    "bilanganUndi": 20659,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 080 - RAUB",
+    "namaCalon": "MOHAMED NILAM BIN ABDUL MANAP",
+    "parti": "PAS",
+    "bilanganUndi": 7866,
+    "status": null
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 080 - RAUB",
+    "namaCalon": "CHEW MEI FUN",
+    "parti": "BN",
+    "bilanganUndi": 17500,
+    "status": null
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 081 - JERANTUT",
+    "namaCalon": "YOHANIS BIN AHMAD",
+    "parti": "PAS",
+    "bilanganUndi": 16732,
+    "status": null
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 081 - JERANTUT",
+    "namaCalon": "AHMAD NAZLAN BIN IDRIS",
+    "parti": "BN",
+    "bilanganUndi": 22640,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 081 - JERANTUT",
+    "namaCalon": "WAN MOHD SHAHARIR BIN WAN ABD. JALIL",
+    "parti": "PKR",
+    "bilanganUndi": 10877,
+    "status": null
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 082 - INDERA MAHKOTA",
+    "namaCalon": "NASRUDIN BIN HASSAN",
+    "parti": "PAS",
+    "bilanganUndi": 17515,
+    "status": null
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 082 - INDERA MAHKOTA",
+    "namaCalon": "SAIFUDDIN BIN ABDULLAH",
+    "parti": "PKR",
+    "bilanganUndi": 28578,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 082 - INDERA MAHKOTA",
+    "namaCalon": "JOHAN BIN MAT SAH",
+    "parti": "BN",
+    "bilanganUndi": 17628,
+    "status": null
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 083 - KUANTAN",
+    "namaCalon": "WONG KEAN HWEE",
+    "parti": "BN",
+    "bilanganUndi": 13667,
+    "status": null
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 083 - KUANTAN",
+    "namaCalon": "FUZIAH BINTI SALLEH",
+    "parti": "PKR",
+    "bilanganUndi": 22807,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 083 - KUANTAN",
+    "namaCalon": "SULAIMAN BIN MD DERUS",
+    "parti": "PAS",
+    "bilanganUndi": 14696,
+    "status": null
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 084 - PAYA BESAR",
+    "namaCalon": "MOHD SHAHAR BIN ABDULLAH",
+    "parti": "BN",
+    "bilanganUndi": 19033,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 084 - PAYA BESAR",
+    "namaCalon": "MOHAMAD AZHAR BIN MOHD NOOR",
+    "parti": "PAS",
+    "bilanganUndi": 13291,
+    "status": null
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 084 - PAYA BESAR",
+    "namaCalon": "MOHD ASHRAF MUSTAQIM BIN BADRUL MUNIR",
+    "parti": "PKR",
+    "bilanganUndi": 11776,
+    "status": null
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 085 - PEKAN",
+    "namaCalon": "MOHD NAJIB BIN TUN ABD RAZAK",
+    "parti": "BN",
+    "bilanganUndi": 43854,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 085 - PEKAN",
+    "namaCalon": "AHIATUDIN BIN DAUD",
+    "parti": "PAS",
+    "bilanganUndi": 18995,
+    "status": null
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 085 - PEKAN",
+    "namaCalon": "ABD KADIR BIN SAINUDIN",
+    "parti": "BEBAS",
+    "bilanganUndi": 103,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 085 - PEKAN",
+    "namaCalon": "MUHAMMAD ZAHID BIN MD ARIP",
+    "parti": "PKR",
+    "bilanganUndi": 7662,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 086 - MARAN",
+    "namaCalon": "AHMAD FARID BIN AHMAD NORDIN",
+    "parti": "PKR",
+    "bilanganUndi": 4360,
+    "status": null
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 086 - MARAN",
+    "namaCalon": "HASENAN BIN HARON",
+    "parti": "PAS",
+    "bilanganUndi": 12301,
+    "status": null
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 086 - MARAN",
+    "namaCalon": "ISMAIL BIN ABD. MUTTALIB",
+    "parti": "BN",
+    "bilanganUndi": 16064,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 087 - KUALA KRAU",
+    "namaCalon": "ISMAIL BIN MOHAMED SAID",
+    "parti": "BN",
+    "bilanganUndi": 18058,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 087 - KUALA KRAU",
+    "namaCalon": "KAMAL BIN ASHAARI",
+    "parti": "PAS",
+    "bilanganUndi": 15182,
+    "status": null
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 087 - KUALA KRAU",
+    "namaCalon": "MOHAMAD RAFIDEE BIN HASSIM",
+    "parti": "PKR",
+    "bilanganUndi": 5071,
+    "status": null
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 088 - TEMERLOH",
+    "namaCalon": "MOHD. ANUAR BIN MOHD TAHIR",
+    "parti": "PKR",
+    "bilanganUndi": 23998,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 088 - TEMERLOH",
+    "namaCalon": "MOHD KHAIDIR BIN AHMAD",
+    "parti": "BEBAS",
+    "bilanganUndi": 178,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 088 - TEMERLOH",
+    "namaCalon": "MOHD SHARKAR BIN SHAMSUDIN",
+    "parti": "BN",
+    "bilanganUndi": 22094,
+    "status": null
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 088 - TEMERLOH",
+    "namaCalon": "MD JUSOH BIN DARUS",
+    "parti": "PAS",
+    "bilanganUndi": 14734,
+    "status": null
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 088 - TEMERLOH",
+    "namaCalon": "MUHAMAD FAKHRUDIN BIN ABU HANIPAH",
+    "parti": "BEBAS",
+    "bilanganUndi": 46,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 089 - BENTONG",
+    "namaCalon": "LIOW TIONG LAI",
+    "parti": "BN",
+    "bilanganUndi": 23684,
+    "status": null
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 089 - BENTONG",
+    "namaCalon": "WONG TACK",
+    "parti": "PKR",
+    "bilanganUndi": 25716,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 089 - BENTONG",
+    "namaCalon": "BALASUBRAMANIAM A/L NACHIAPPAN",
+    "parti": "PAS",
+    "bilanganUndi": 5706,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 090 - BERA",
+    "namaCalon": "ZAKARIA BIN ABDUL HAMID",
+    "parti": "PKR",
+    "bilanganUndi": 18449,
+    "status": null
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 090 - BERA",
+    "namaCalon": "MUSANIFF BIN AB. RAHMAN",
+    "parti": "PAS",
+    "bilanganUndi": 8096,
+    "status": null
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 090 - BERA",
+    "namaCalon": "ISMAIL SABRI BIN YAAKOB",
+    "parti": "BN",
+    "bilanganUndi": 20760,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 091 - ROMPIN",
+    "namaCalon": "SITARUNISAH BINTI AB KADIR",
+    "parti": "PKR",
+    "bilanganUndi": 7876,
+    "status": null
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 091 - ROMPIN",
+    "namaCalon": "HASAN BIN ARIFIN",
+    "parti": "BN",
+    "bilanganUndi": 26628,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PAHANG",
+    "bahagianPilihanRaya": "P. 091 - ROMPIN",
+    "namaCalon": "M SHAHRUL NIZAM BIN ABDUL HALIFF",
+    "parti": "PAS",
+    "bilanganUndi": 15233,
+    "status": null
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 054 - GERIK",
+    "namaCalon": "MOHD DAHALAN BIN HJ ISMAIL",
+    "parti": "PAS",
+    "bilanganUndi": 7715,
+    "status": null
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 054 - GERIK",
+    "namaCalon": "HASBULLAH BIN OSMAN",
+    "parti": "BN",
+    "bilanganUndi": 13243,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 054 - GERIK",
+    "namaCalon": "IBRAHIM BIN MOHD HANAFIAH",
+    "parti": "PKR",
+    "bilanganUndi": 6353,
+    "status": null
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 055 - LENGGONG",
+    "namaCalon": "AMIRUL FAIRUZZEEN BIN JAMALUDDIN",
+    "parti": "PKR",
+    "bilanganUndi": 3932,
+    "status": null
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 055 - LENGGONG",
+    "namaCalon": "SHAMSUL ANUAR BIN NASARAH",
+    "parti": "BN",
+    "bilanganUndi": 12523,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 055 - LENGGONG",
+    "namaCalon": "MUHAMMAD MUJAHID BIN MOHAMMAD FADZIL",
+    "parti": "PAS",
+    "bilanganUndi": 6750,
+    "status": null
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 056 - LARUT",
+    "namaCalon": "HAMZAH BIN ZAINUDIN",
+    "parti": "BN",
+    "bilanganUndi": 18184,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 056 - LARUT",
+    "namaCalon": "ABU HUSIN BIN MOHMMAD",
+    "parti": "PAS",
+    "bilanganUndi": 13698,
+    "status": null
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 056 - LARUT",
+    "namaCalon": "KHAIRIL ANUAR BIN AKHIRUDDIN",
+    "parti": "PKR",
+    "bilanganUndi": 7738,
+    "status": null
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 057 - PARIT BUNTAR",
+    "namaCalon": "AHMAD AZHAR BIN SHARIN",
+    "parti": "PAS",
+    "bilanganUndi": 12312,
+    "status": null
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 057 - PARIT BUNTAR",
+    "namaCalon": "ABDUL PUHAT BIN MAT NAYAN",
+    "parti": "BN",
+    "bilanganUndi": 13655,
+    "status": null
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 057 - PARIT BUNTAR",
+    "namaCalon": "MUJAHID BIN YUSOF",
+    "parti": "PKR",
+    "bilanganUndi": 16753,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 058 - BAGAN SERAI",
+    "namaCalon": "NOOR AZMI BIN GHAZALI",
+    "parti": "BN",
+    "bilanganUndi": 17220,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 058 - BAGAN SERAI",
+    "namaCalon": "ADAM BIN ASMUNI",
+    "parti": "PKR",
+    "bilanganUndi": 12987,
+    "status": null
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 058 - BAGAN SERAI",
+    "namaCalon": "ROHAYA BINTI BAKAR",
+    "parti": "PAS",
+    "bilanganUndi": 17048,
+    "status": null
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 059 - BUKIT GANTANG",
+    "namaCalon": "KHADRI BIN KHALID",
+    "parti": "PKR",
+    "bilanganUndi": 18361,
+    "status": null
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 059 - BUKIT GANTANG",
+    "namaCalon": "SYED ABU HUSSIN BIN HAFIZ SYED ABDUL FASAL",
+    "parti": "BN",
+    "bilanganUndi": 22450,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 059 - BUKIT GANTANG",
+    "namaCalon": "IDRIS BIN AHMAD",
+    "parti": "PAS",
+    "bilanganUndi": 16052,
+    "status": null
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 060 - TAIPING",
+    "namaCalon": "TEH KOK LIM",
+    "parti": "PKR",
+    "bilanganUndi": 42997,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 060 - TAIPING",
+    "namaCalon": "IBRAHIM BIN ISMAIL",
+    "parti": "PAS",
+    "bilanganUndi": 11133,
+    "status": null
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 060 - TAIPING",
+    "namaCalon": "TAN KENG LIANG",
+    "parti": "BN",
+    "bilanganUndi": 15613,
+    "status": null
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 061 - PADANG RENGAS",
+    "namaCalon": "MOHAMED NAZRI BIN ABDUL AZIZ",
+    "parti": "BN",
+    "bilanganUndi": 10491,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 061 - PADANG RENGAS",
+    "namaCalon": "MOHAMAD AZALAN BIN MOHAMAD RADZI",
+    "parti": "PAS",
+    "bilanganUndi": 6847,
+    "status": null
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 061 - PADANG RENGAS",
+    "namaCalon": "EJAZI BIN YAHAYA",
+    "parti": "PKR",
+    "bilanganUndi": 7943,
+    "status": null
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 062 - SUNGAI SIPUT",
+    "namaCalon": "MICHAEL JEYAKUMAR DEVARAJ",
+    "parti": "PSM",
+    "bilanganUndi": 1505,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 062 - SUNGAI SIPUT",
+    "namaCalon": "ISHAK BIN IBRAHIM",
+    "parti": "PAS",
+    "bilanganUndi": 5194,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 062 - SUNGAI SIPUT",
+    "namaCalon": "KESAVAN A/L SUBRAMANIAM",
+    "parti": "PKR",
+    "bilanganUndi": 20817,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 062 - SUNGAI SIPUT",
+    "namaCalon": "DEVAMANY A/L S. KRISHNASAMY",
+    "parti": "BN",
+    "bilanganUndi": 15210,
+    "status": null
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 063 - TAMBUN",
+    "namaCalon": "AHMAD HUSNI BIN MOHAMAD HANADZLAH",
+    "parti": "BN",
+    "bilanganUndi": 33341,
+    "status": null
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 063 - TAMBUN",
+    "namaCalon": "MUHAMAD ZULKIFLI BIN MOHAMAD ZAKARIA",
+    "parti": "PAS",
+    "bilanganUndi": 14948,
+    "status": null
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 063 - TAMBUN",
+    "namaCalon": "AHMAD FAIZAL BIN AZUMU",
+    "parti": "PKR",
+    "bilanganUndi": 38661,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 064 - IPOH TIMOR",
+    "namaCalon": "KATHLEEN WONG MEI YIN",
+    "parti": "BN",
+    "bilanganUndi": 13722,
+    "status": null
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 064 - IPOH TIMOR",
+    "namaCalon": "WONG KAH WOH",
+    "parti": "PKR",
+    "bilanganUndi": 56519,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 065 - IPOH BARAT",
+    "namaCalon": "CHENG WEI YEE",
+    "parti": "BN",
+    "bilanganUndi": 9889,
+    "status": null
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 065 - IPOH BARAT",
+    "namaCalon": "M.KULASEGARAN A/L V.MURUGESON",
+    "parti": "PKR",
+    "bilanganUndi": 55613,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 066 - BATU GAJAH",
+    "namaCalon": "LEONG CHEE WAI",
+    "parti": "BN",
+    "bilanganUndi": 8982,
+    "status": null
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 066 - BATU GAJAH",
+    "namaCalon": "KUNASEKARAN A/L KRISHNAN",
+    "parti": "PSM",
+    "bilanganUndi": 955,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 066 - BATU GAJAH",
+    "namaCalon": "SIVAKUMAR A/L VARATHARAJU NAIDU",
+    "parti": "PKR",
+    "bilanganUndi": 52850,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 067 - KUALA KANGSAR",
+    "namaCalon": "AHMAD TERMIZI BIN RAMLI",
+    "parti": "PKR",
+    "bilanganUndi": 11371,
+    "status": null
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 067 - KUALA KANGSAR",
+    "namaCalon": "MASTURA BINTI MOHD YAZID ",
+    "parti": "BN",
+    "bilanganUndi": 12102,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 067 - KUALA KANGSAR",
+    "namaCalon": "KHALIL IDHAM LIM BIN ABDULLAH",
+    "parti": "PAS",
+    "bilanganUndi": 6583,
+    "status": null
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 068 - BERUAS",
+    "namaCalon": "NGEH KOO HAM",
+    "parti": "PKR",
+    "bilanganUndi": 41231,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 068 - BERUAS",
+    "namaCalon": "MOHAMAD NAZEER BIN M K M HAMEED",
+    "parti": "PAS",
+    "bilanganUndi": 5759,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 068 - BERUAS",
+    "namaCalon": "PANG CHOK KING",
+    "parti": "BN",
+    "bilanganUndi": 13277,
+    "status": null
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 069 - PARIT",
+    "namaCalon": "NAJIHATUSSALEHAH BINTI AHMAD",
+    "parti": "PAS",
+    "bilanganUndi": 7715,
+    "status": null
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 069 - PARIT",
+    "namaCalon": "MOHD NIZAR BIN ZAKARIA",
+    "parti": "BN",
+    "bilanganUndi": 14035,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 069 - PARIT",
+    "namaCalon": "AHMAD TARMIZI BIN MOHD JAM",
+    "parti": "PKR",
+    "bilanganUndi": 7240,
+    "status": null
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 070 - KAMPAR",
+    "namaCalon": "SU KEONG SIONG",
+    "parti": "PKR",
+    "bilanganUndi": 30216,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 070 - KAMPAR",
+    "namaCalon": "LEE CHEE LEONG",
+    "parti": "BN",
+    "bilanganUndi": 18415,
+    "status": null
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 070 - KAMPAR",
+    "namaCalon": "YOUGAN A/L MAHALINGAM",
+    "parti": "PAS",
+    "bilanganUndi": 3864,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 071 - GOPENG",
+    "namaCalon": "ISMAIL BIN ARIFFIN",
+    "parti": "PAS",
+    "bilanganUndi": 11165,
+    "status": null
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 071 - GOPENG",
+    "namaCalon": "LEE BOON CHYE",
+    "parti": "PKR",
+    "bilanganUndi": 48923,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 071 - GOPENG",
+    "namaCalon": "HENG SEAI KIE",
+    "parti": "BN",
+    "bilanganUndi": 19145,
+    "status": null
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 072 - TAPAH",
+    "namaCalon": "NORAZLI BIN MUSA",
+    "parti": "PAS",
+    "bilanganUndi": 4616,
+    "status": null
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 072 - TAPAH",
+    "namaCalon": "MOHAMED AZNI BIN MOHAMED ALI",
+    "parti": "PKR",
+    "bilanganUndi": 15472,
+    "status": null
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 072 - TAPAH",
+    "namaCalon": "SARAVANAN A/L MURUGAN",
+    "parti": "BN",
+    "bilanganUndi": 16086,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 073 - PASIR SALAK",
+    "namaCalon": "TAJUDDIN BIN ABDUL RAHMAN ",
+    "parti": "BN",
+    "bilanganUndi": 20003,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 073 - PASIR SALAK",
+    "namaCalon": "SALIHUDDIN BIN RADIN SUMADI",
+    "parti": "PKR",
+    "bilanganUndi": 12291,
+    "status": null
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 073 - PASIR SALAK",
+    "namaCalon": "ZAFARULAZHAN BIN ZAN",
+    "parti": "PAS",
+    "bilanganUndi": 11151,
+    "status": null
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 074 - LUMUT",
+    "namaCalon": "MOHAMMED ZAMRI BIN IBRAHIM ",
+    "parti": "PAS",
+    "bilanganUndi": 10135,
+    "status": null
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 074 - LUMUT",
+    "namaCalon": "ZAMBRY BIN ABD KADIR",
+    "parti": "BN",
+    "bilanganUndi": 21555,
+    "status": null
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 074 - LUMUT",
+    "namaCalon": "MOHD HATTA BIN MD RAMLI",
+    "parti": "PKR",
+    "bilanganUndi": 21955,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 075 - BAGAN DATUK",
+    "namaCalon": "AHMAD ZAHID BIN HAMIDI",
+    "parti": "BN",
+    "bilanganUndi": 18909,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 075 - BAGAN DATUK",
+    "namaCalon": "PAKHRURRAZI BIN HJ ARSHAD",
+    "parti": "PKR",
+    "bilanganUndi": 13836,
+    "status": null
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 075 - BAGAN DATUK",
+    "namaCalon": "ATA ABDUL MUNEIM BIN HASAN ADLI",
+    "parti": "PAS",
+    "bilanganUndi": 4061,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 076 - TELUK INTAN",
+    "namaCalon": "MAH SIEW KEONG",
+    "parti": "BN",
+    "bilanganUndi": 17991,
+    "status": null
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 076 - TELUK INTAN",
+    "namaCalon": "NGA KOR MING",
+    "parti": "PKR",
+    "bilanganUndi": 29170,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 076 - TELUK INTAN",
+    "namaCalon": "AHMAD RAMADZAN BIN AHMAD DAUD",
+    "parti": "PAS",
+    "bilanganUndi": 6494,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 077 - TANJONG MALIM",
+    "namaCalon": "CHANG LIH KANG",
+    "parti": "PKR",
+    "bilanganUndi": 24672,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 077 - TANJONG MALIM",
+    "namaCalon": "MOHD TARMIZI BIN AB RAHMAN",
+    "parti": "PAS",
+    "bilanganUndi": 10311,
+    "status": null
+  },
+  {
+    "negeri": "PERAK",
+    "bahagianPilihanRaya": "P. 077 - TANJONG MALIM",
+    "namaCalon": "MAH HANG SOON",
+    "parti": "BN",
+    "bilanganUndi": 19314,
+    "status": null
+  },
+  {
+    "negeri": "PERLIS",
+    "bahagianPilihanRaya": "P. 001 - PADANG BESAR",
+    "namaCalon": "MOKHTAR BIN SENIK",
+    "parti": "PAS",
+    "bilanganUndi": 7874,
+    "status": null
+  },
+  {
+    "negeri": "PERLIS",
+    "bahagianPilihanRaya": "P. 001 - PADANG BESAR",
+    "namaCalon": "ZAHIDI BIN ZAINUL ABIDIN",
+    "parti": "BN",
+    "bilanganUndi": 15032,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PERLIS",
+    "bahagianPilihanRaya": "P. 001 - PADANG BESAR",
+    "namaCalon": "IZIZAM BIN IBRAHIM",
+    "parti": "PKR",
+    "bilanganUndi": 13594,
+    "status": null
+  },
+  {
+    "negeri": "PERLIS",
+    "bahagianPilihanRaya": "P. 002 - KANGAR",
+    "namaCalon": "NOOR AMIN BIN AHMAD",
+    "parti": "PKR",
+    "bilanganUndi": 20909,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PERLIS",
+    "bahagianPilihanRaya": "P. 002 - KANGAR",
+    "namaCalon": "MOHAMAD ZAHID BIN IBRAHIM ",
+    "parti": "PAS",
+    "bilanganUndi": 8465,
+    "status": null
+  },
+  {
+    "negeri": "PERLIS",
+    "bahagianPilihanRaya": "P. 002 - KANGAR",
+    "namaCalon": "RAMLI BIN SHARIFF",
+    "parti": "BN",
+    "bilanganUndi": 15306,
+    "status": null
+  },
+  {
+    "negeri": "PERLIS",
+    "bahagianPilihanRaya": "P. 003 - ARAU",
+    "namaCalon": "HASHIM BIN HJ JASIN",
+    "parti": "PAS",
+    "bilanganUndi": 11362,
+    "status": null
+  },
+  {
+    "negeri": "PERLIS",
+    "bahagianPilihanRaya": "P. 003 - ARAU",
+    "namaCalon": "ABD RAHMAN BIN DAUD",
+    "parti": "PKR",
+    "bilanganUndi": 11691,
+    "status": null
+  },
+  {
+    "negeri": "PERLIS",
+    "bahagianPilihanRaya": "P. 003 - ARAU",
+    "namaCalon": "SHAHIDAN BIN KASSIM",
+    "parti": "BN",
+    "bilanganUndi": 16547,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PULAU PINANG",
+    "bahagianPilihanRaya": "P. 041 - KEPALA BATAS",
+    "namaCalon": "SITI MASTURA BINTI MUHAMMAD",
+    "parti": "PAS",
+    "bilanganUndi": 12120,
+    "status": null
+  },
+  {
+    "negeri": "PULAU PINANG",
+    "bahagianPilihanRaya": "P. 041 - KEPALA BATAS",
+    "namaCalon": "ZAIDI BIN ZAKARIA",
+    "parti": "PKR",
+    "bilanganUndi": 17723,
+    "status": null
+  },
+  {
+    "negeri": "PULAU PINANG",
+    "bahagianPilihanRaya": "P. 041 - KEPALA BATAS",
+    "namaCalon": "REEZAL MERICAN BIN NAINA MERICAN",
+    "parti": "BN",
+    "bilanganUndi": 22459,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PULAU PINANG",
+    "bahagianPilihanRaya": "P. 042 - TASEK GELUGOR",
+    "namaCalon": "SHABUDIN BIN YAHAYA",
+    "parti": "BN",
+    "bilanganUndi": 18547,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PULAU PINANG",
+    "bahagianPilihanRaya": "P. 042 - TASEK GELUGOR",
+    "namaCalon": "RIZAL HAFIZ BIN RUSLAN",
+    "parti": "PAS",
+    "bilanganUndi": 14891,
+    "status": null
+  },
+  {
+    "negeri": "PULAU PINANG",
+    "bahagianPilihanRaya": "P. 042 - TASEK GELUGOR",
+    "namaCalon": "MARZUKI BIN YAHYA",
+    "parti": "PKR",
+    "bilanganUndi": 18466,
+    "status": null
+  },
+  {
+    "negeri": "PULAU PINANG",
+    "bahagianPilihanRaya": "P. 043 - BAGAN",
+    "namaCalon": "LIM GUAN ENG ",
+    "parti": "PKR",
+    "bilanganUndi": 51653,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PULAU PINANG",
+    "bahagianPilihanRaya": "P. 043 - BAGAN",
+    "namaCalon": "KOAY XING BOON",
+    "parti": "MU",
+    "bilanganUndi": 181,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "PULAU PINANG",
+    "bahagianPilihanRaya": "P. 043 - BAGAN",
+    "namaCalon": "LEE BENG SENG",
+    "parti": "BN",
+    "bilanganUndi": 7751,
+    "status": null
+  },
+  {
+    "negeri": "PULAU PINANG",
+    "bahagianPilihanRaya": "P. 043 - BAGAN",
+    "namaCalon": "HUAN CHENG GUAN",
+    "parti": "PCM",
+    "bilanganUndi": 502,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "PULAU PINANG",
+    "bahagianPilihanRaya": "P. 044 - PERMATANG PAUH",
+    "namaCalon": "MOHD ZAIDI BIN MOHD SAID",
+    "parti": "BN",
+    "bilanganUndi": 19866,
+    "status": null
+  },
+  {
+    "negeri": "PULAU PINANG",
+    "bahagianPilihanRaya": "P. 044 - PERMATANG PAUH",
+    "namaCalon": "AFNAN HAMIMI BIN TAIB AZAMUDDEN",
+    "parti": "PAS",
+    "bilanganUndi": 14428,
+    "status": null
+  },
+  {
+    "negeri": "PULAU PINANG",
+    "bahagianPilihanRaya": "P. 044 - PERMATANG PAUH",
+    "namaCalon": "NURUL IZZAH BINTI ANWAR",
+    "parti": "PKR",
+    "bilanganUndi": 35534,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PULAU PINANG",
+    "bahagianPilihanRaya": "P. 045 - BUKIT MERTAJAM",
+    "namaCalon": "SIM CHEE KEONG",
+    "parti": "PKR",
+    "bilanganUndi": 63784,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PULAU PINANG",
+    "bahagianPilihanRaya": "P. 045 - BUKIT MERTAJAM",
+    "namaCalon": "GUI GUAT LYE",
+    "parti": "BN",
+    "bilanganUndi": 10907,
+    "status": null
+  },
+  {
+    "negeri": "PULAU PINANG",
+    "bahagianPilihanRaya": "P. 046 - BATU KAWAN",
+    "namaCalon": "JAYANTHI DEVI A/P BALAGURU",
+    "parti": "BN",
+    "bilanganUndi": 9130,
+    "status": null
+  },
+  {
+    "negeri": "PULAU PINANG",
+    "bahagianPilihanRaya": "P. 046 - BATU KAWAN",
+    "namaCalon": "OOI KHAR GIAP",
+    "parti": "PFP",
+    "bilanganUndi": 256,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "PULAU PINANG",
+    "bahagianPilihanRaya": "P. 046 - BATU KAWAN",
+    "namaCalon": "JAY KUMAR A/L BALAKRISHNA",
+    "parti": "PAS",
+    "bilanganUndi": 2636,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "PULAU PINANG",
+    "bahagianPilihanRaya": "P. 046 - BATU KAWAN",
+    "namaCalon": "KASTHURIRAANI A/P PATTO",
+    "parti": "PKR",
+    "bilanganUndi": 42683,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PULAU PINANG",
+    "bahagianPilihanRaya": "P. 047 - NIBONG TEBAL",
+    "namaCalon": "SHAIK HUSSEIN BIN MYDIN",
+    "parti": "BN",
+    "bilanganUndi": 19578,
+    "status": null
+  },
+  {
+    "negeri": "PULAU PINANG",
+    "bahagianPilihanRaya": "P. 047 - NIBONG TEBAL",
+    "namaCalon": "MANSOR BIN OTHMAN",
+    "parti": "PKR",
+    "bilanganUndi": 35395,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PULAU PINANG",
+    "bahagianPilihanRaya": "P. 047 - NIBONG TEBAL",
+    "namaCalon": "MOHD HELMI BIN HARUN",
+    "parti": "PAS",
+    "bilanganUndi": 6875,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "PULAU PINANG",
+    "bahagianPilihanRaya": "P. 047 - NIBONG TEBAL",
+    "namaCalon": "TAN TEE BENG",
+    "parti": "BEBAS",
+    "bilanganUndi": 331,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "PULAU PINANG",
+    "bahagianPilihanRaya": "P. 048 - BUKIT BENDERA",
+    "namaCalon": "WONG HON WAI",
+    "parti": "PKR",
+    "bilanganUndi": 50049,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PULAU PINANG",
+    "bahagianPilihanRaya": "P. 048 - BUKIT BENDERA",
+    "namaCalon": "ANDY YONG KIM SENG",
+    "parti": "BN",
+    "bilanganUndi": 9318,
+    "status": null
+  },
+  {
+    "negeri": "PULAU PINANG",
+    "bahagianPilihanRaya": "P. 048 - BUKIT BENDERA",
+    "namaCalon": "TAN GIN THEAM",
+    "parti": "MU",
+    "bilanganUndi": 339,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "PULAU PINANG",
+    "bahagianPilihanRaya": "P. 049 - TANJONG",
+    "namaCalon": "CHOW KON YEOW",
+    "parti": "PKR",
+    "bilanganUndi": 34663,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PULAU PINANG",
+    "bahagianPilihanRaya": "P. 049 - TANJONG",
+    "namaCalon": "NG SIEW LAI",
+    "parti": "BN",
+    "bilanganUndi": 5064,
+    "status": null
+  },
+  {
+    "negeri": "PULAU PINANG",
+    "bahagianPilihanRaya": "P. 050 - JELUTONG",
+    "namaCalon": "TAN SIM BEE",
+    "parti": "MU",
+    "bilanganUndi": 437,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "PULAU PINANG",
+    "bahagianPilihanRaya": "P. 050 - JELUTONG",
+    "namaCalon": "SANISVARA NETHAJI RAYER A/L RAJAJI",
+    "parti": "PKR",
+    "bilanganUndi": 50700,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PULAU PINANG",
+    "bahagianPilihanRaya": "P. 050 - JELUTONG",
+    "namaCalon": "BALJIT SINGH A/L JIGIRI SINGH",
+    "parti": "BN",
+    "bilanganUndi": 12529,
+    "status": null
+  },
+  {
+    "negeri": "PULAU PINANG",
+    "bahagianPilihanRaya": "P. 051 - BUKIT GELUGOR",
+    "namaCalon": "LOW JOO HIAP",
+    "parti": "BN",
+    "bilanganUndi": 9671,
+    "status": null
+  },
+  {
+    "negeri": "PULAU PINANG",
+    "bahagianPilihanRaya": "P. 051 - BUKIT GELUGOR",
+    "namaCalon": "RAMKARPAL SINGH A/L KARPAL SINGH",
+    "parti": "PKR",
+    "bilanganUndi": 65622,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PULAU PINANG",
+    "bahagianPilihanRaya": "P. 051 - BUKIT GELUGOR",
+    "namaCalon": "LAI XUE CHING",
+    "parti": "MU",
+    "bilanganUndi": 412,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "PULAU PINANG",
+    "bahagianPilihanRaya": "P. 052 - BAYAN BARU",
+    "namaCalon": "ISZUREE BIN IBRAHIM",
+    "parti": "PAS",
+    "bilanganUndi": 8757,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "PULAU PINANG",
+    "bahagianPilihanRaya": "P. 052 - BAYAN BARU",
+    "namaCalon": "SIM TZE TZIN",
+    "parti": "PKR",
+    "bilanganUndi": 51555,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PULAU PINANG",
+    "bahagianPilihanRaya": "P. 052 - BAYAN BARU",
+    "namaCalon": "CHUAH SENG GUAN",
+    "parti": "BN",
+    "bilanganUndi": 13804,
+    "status": null
+  },
+  {
+    "negeri": "PULAU PINANG",
+    "bahagianPilihanRaya": "P. 052 - BAYAN BARU",
+    "namaCalon": "YIM BOON LEONG",
+    "parti": "MU",
+    "bilanganUndi": 733,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "PULAU PINANG",
+    "bahagianPilihanRaya": "P. 053 - BALIK PULAU",
+    "namaCalon": "MUHAMMAD IMRAN BIN MUHAMMAD SA'AD",
+    "parti": "PAS",
+    "bilanganUndi": 5298,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "PULAU PINANG",
+    "bahagianPilihanRaya": "P. 053 - BALIK PULAU",
+    "namaCalon": "MUHAMMAD BAKHTIAR BIN WAN CHIK",
+    "parti": "PKR",
+    "bilanganUndi": 25471,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "PULAU PINANG",
+    "bahagianPilihanRaya": "P. 053 - BALIK PULAU",
+    "namaCalon": "HILMI BIN YAHAYA",
+    "parti": "BN",
+    "bilanganUndi": 19007,
+    "status": null
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 167 - KUDAT",
+    "namaCalon": "DATUK ABD RAHIM BIN BAKRI",
+    "parti": "BN",
+    "bilanganUndi": 18503,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 167 - KUDAT",
+    "namaCalon": "MOHD ASHRAF CHIN ABDULLAH",
+    "parti": "PPRS",
+    "bilanganUndi": 1432,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 167 - KUDAT",
+    "namaCalon": "SH AZMAN BIN SH ALONG",
+    "parti": "WARISAN",
+    "bilanganUndi": 17144,
+    "status": null
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 168 - KOTA MARUDU",
+    "namaCalon": "JOHNITY @ MAXIMUS BIN ONGKILI",
+    "parti": "BN",
+    "bilanganUndi": 13033,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 168 - KOTA MARUDU",
+    "namaCalon": "BARLUS BIN MANGABIS",
+    "parti": "WARISAN",
+    "bilanganUndi": 7113,
+    "status": null
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 168 - KOTA MARUDU",
+    "namaCalon": "PAUL BIN PORODONG",
+    "parti": "PCS",
+    "bilanganUndi": 2501,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 168 - KOTA MARUDU",
+    "namaCalon": "MAIJOL BIN MAHAP",
+    "parti": "HR",
+    "bilanganUndi": 11259,
+    "status": null
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 169 - KOTA BELUD",
+    "namaCalon": "DATUK SERI PANGLIMA MD SALLEH MD SAID",
+    "parti": "BN",
+    "bilanganUndi": 19167,
+    "status": null
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 169 - KOTA BELUD",
+    "namaCalon": "MIASIN@AIMADUDDIN BIN MION",
+    "parti": "HR",
+    "bilanganUndi": 2092,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 169 - KOTA BELUD",
+    "namaCalon": "LAIMAN BIN IKIN @ AG LAIMAN B.KAKIMIN",
+    "parti": "PAS",
+    "bilanganUndi": 1410,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 169 - KOTA BELUD",
+    "namaCalon": "ISNARAISSAH MUNIRAH BT MAJILIS @ FAKHARUDY",
+    "parti": "WARISAN",
+    "bilanganUndi": 23429,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 170 - TUARAN",
+    "namaCalon": "CHRISNADIA BINTI SINAM",
+    "parti": "PKR",
+    "bilanganUndi": 14870,
+    "status": null
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 170 - TUARAN",
+    "namaCalon": "MADIUS BIN TANGAU",
+    "parti": "BN",
+    "bilanganUndi": 22494,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 170 - TUARAN",
+    "namaCalon": "PAUMIN @ MOHD AMINUDDIN BIN ALING",
+    "parti": "PAS",
+    "bilanganUndi": 1357,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 170 - TUARAN",
+    "namaCalon": "KALAKAU @ KALAKAN BIN UNTOL @ ENTOL",
+    "parti": "PCS",
+    "bilanganUndi": 2611,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 170 - TUARAN",
+    "namaCalon": "SYRA PETER @ P GOM",
+    "parti": "HR",
+    "bilanganUndi": 2311,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 171 - SEPANGGAR",
+    "namaCalon": "ROBERT SOPINING",
+    "parti": "PCS",
+    "bilanganUndi": 971,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 171 - SEPANGGAR",
+    "namaCalon": "ABD RAHMAN BIN DAHLAN",
+    "parti": "BN",
+    "bilanganUndi": 15436,
+    "status": null
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 171 - SEPANGGAR",
+    "namaCalon": "JEFFREY KUMIN",
+    "parti": "SAPP",
+    "bilanganUndi": 2958,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 171 - SEPANGGAR",
+    "namaCalon": "MOHD AZIS BIN JAMMAN",
+    "parti": "WARISAN",
+    "bilanganUndi": 28420,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 172 - KOTA KINABALU",
+    "namaCalon": "CHAN FOONG HIN",
+    "parti": "DAP",
+    "bilanganUndi": 31632,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 172 - KOTA KINABALU",
+    "namaCalon": "LEE HAN KYUN @ JOSEPH LEE",
+    "parti": "BN",
+    "bilanganUndi": 7546,
+    "status": null
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 172 - KOTA KINABALU",
+    "namaCalon": "YONG TECK LEE",
+    "parti": "SAPP",
+    "bilanganUndi": 3132,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 173 - PUTATAN",
+    "namaCalon": "JIVOL @ EDMUND BIN DOUDILIM",
+    "parti": "HR",
+    "bilanganUndi": 1755,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 173 - PUTATAN",
+    "namaCalon": "ZULZAIM HILMEE BIN ABIDIN",
+    "parti": "PAS",
+    "bilanganUndi": 2434,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 173 - PUTATAN",
+    "namaCalon": "AWANG HUSAINI BIN SAHARI",
+    "parti": "PKR",
+    "bilanganUndi": 14106,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 173 - PUTATAN",
+    "namaCalon": "MIL KUSIN BIN ABDILLAH",
+    "parti": "ANAKNEGERI",
+    "bilanganUndi": 728,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 173 - PUTATAN",
+    "namaCalon": "MAKIN @ MARCUS MAJIGOH",
+    "parti": "BN",
+    "bilanganUndi": 11767,
+    "status": null
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 174 - PENAMPANG",
+    "namaCalon": "IGNATIUS DORELL LEIKING",
+    "parti": "WARISAN",
+    "bilanganUndi": 32470,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 174 - PENAMPANG",
+    "namaCalon": "CLEFTUS STEPHEN SPINE ",
+    "parti": "SOLIDARITI",
+    "bilanganUndi": 1196,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 174 - PENAMPANG",
+    "namaCalon": "CEASAR MANDELA MALAKUN",
+    "parti": "BN",
+    "bilanganUndi": 8997,
+    "status": null
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 174 - PENAMPANG",
+    "namaCalon": "EDWIN @ JACK BOSI",
+    "parti": "ANAKNEGERI",
+    "bilanganUndi": 445,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 175 - PAPAR",
+    "namaCalon": "ELBERT BIN SIKUIL",
+    "parti": "PCS",
+    "bilanganUndi": 481,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 175 - PAPAR",
+    "namaCalon": "JAMIL BIN WILLIAM CORE",
+    "parti": "SOLIDARITI",
+    "bilanganUndi": 892,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 175 - PAPAR",
+    "namaCalon": "DATUK ROSNAH BINTI HJ ABD RASHID SHIRLIN",
+    "parti": "BN",
+    "bilanganUndi": 17069,
+    "status": null
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 175 - PAPAR",
+    "namaCalon": "AHMAD BIN HASSAN",
+    "parti": "WARISAN",
+    "bilanganUndi": 17394,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 176 - KIMANIS",
+    "namaCalon": "KARIM BIN BUJANG",
+    "parti": "WARISAN",
+    "bilanganUndi": 11786,
+    "status": null
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 176 - KIMANIS",
+    "namaCalon": "JAAFAR BIN ISMAIL",
+    "parti": "HR",
+    "bilanganUndi": 1300,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 176 - KIMANIS",
+    "namaCalon": "ANIFAH BIN AMAN @ HANIFF AMMAN ",
+    "parti": "BN",
+    "bilanganUndi": 11942,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 177 - BEAUFORT",
+    "namaCalon": "DATUK AZIZAH BINTI MOHD DUN",
+    "parti": "BN",
+    "bilanganUndi": 11354,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 177 - BEAUFORT",
+    "namaCalon": "LAJIM BIN UKIN",
+    "parti": "HR",
+    "bilanganUndi": 8023,
+    "status": null
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 177 - BEAUFORT",
+    "namaCalon": "JOHAN @ CHRISTOPHER BIN OT GHANI",
+    "parti": "PKR",
+    "bilanganUndi": 7835,
+    "status": null
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 178 - SIPITANG",
+    "namaCalon": "NOOR HAYATY BINTI MUSTAPHA",
+    "parti": "WARISAN",
+    "bilanganUndi": 11186,
+    "status": null
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 178 - SIPITANG",
+    "namaCalon": "DAYANG AEZZY BINTI LIMAN",
+    "parti": "HR",
+    "bilanganUndi": 1547,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 178 - SIPITANG",
+    "namaCalon": "YAMANI HAFEZ BIN MUSA",
+    "parti": "BN",
+    "bilanganUndi": 12038,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 179 - RANAU",
+    "namaCalon": "ANDAU BIN YASUN @ BRUNO",
+    "parti": "PCS",
+    "bilanganUndi": 1110,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 179 - RANAU",
+    "namaCalon": "SOUDI @ SAMI BIN ANDANG",
+    "parti": "SOLIDARITI",
+    "bilanganUndi": 3148,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 179 - RANAU",
+    "namaCalon": "EWON BIN EBIN",
+    "parti": "BN",
+    "bilanganUndi": 13804,
+    "status": null
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 179 - RANAU",
+    "namaCalon": "JONATHAN BIN YASIN",
+    "parti": "PKR",
+    "bilanganUndi": 14880,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 180 - KENINGAU",
+    "namaCalon": "DANIEL BIN KINSIK",
+    "parti": "BN",
+    "bilanganUndi": 12742,
+    "status": null
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 180 - KENINGAU",
+    "namaCalon": "GAPARI BIN KATINGAN @ GEOFFREY KITINGAN",
+    "parti": "SOLIDARITI",
+    "bilanganUndi": 13286,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 180 - KENINGAU",
+    "namaCalon": "JIKULIN NOINTIN @ ANASTASIUS",
+    "parti": "WARISAN",
+    "bilanganUndi": 13241,
+    "status": null
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 180 - KENINGAU",
+    "namaCalon": "JIUS BIN AWANG",
+    "parti": "PCS",
+    "bilanganUndi": 433,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 180 - KENINGAU",
+    "namaCalon": "MAIMIN BIN RIJAN",
+    "parti": "BEBAS",
+    "bilanganUndi": 248,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 180 - KENINGAU",
+    "namaCalon": "JUSTIN BIN GUKA",
+    "parti": "BEBAS",
+    "bilanganUndi": 199,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 181 - TENOM",
+    "namaCalon": "NOORITA BINTI SUAL",
+    "parti": "DAP",
+    "bilanganUndi": 11363,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 181 - TENOM",
+    "namaCalon": "RUBIN BIN BALANG",
+    "parti": "BN",
+    "bilanganUndi": 10230,
+    "status": null
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 181 - TENOM",
+    "namaCalon": "LAIMOI @ YUSLINAH BINTI LAIKIM",
+    "parti": "HR",
+    "bilanganUndi": 645,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 182 - PENSIANGAN",
+    "namaCalon": "JOH BIN JIMMY @ RICHARD JOE JIMMY",
+    "parti": "SOLIDARITI",
+    "bilanganUndi": 2839,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 182 - PENSIANGAN",
+    "namaCalon": "ARTHUR JOSEPH KURUP ",
+    "parti": "BN",
+    "bilanganUndi": 11783,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 182 - PENSIANGAN",
+    "namaCalon": "MAIDIN BIN ATAK @ MAIDIN HAJI OSMAN",
+    "parti": "PCS",
+    "bilanganUndi": 212,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 182 - PENSIANGAN",
+    "namaCalon": "ENGAH BIN SINTAN @ DAHLAN BIN ABDULLAH",
+    "parti": "BEBAS",
+    "bilanganUndi": 65,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 182 - PENSIANGAN",
+    "namaCalon": "RAYMOND BIN AHUAR",
+    "parti": "PKR",
+    "bilanganUndi": 9469,
+    "status": null
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 183 - BELURAN",
+    "namaCalon": "DATUK RONALD KIANDEE",
+    "parti": "BN",
+    "bilanganUndi": 13007,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 183 - BELURAN",
+    "namaCalon": "SALIMAH BINTI OYONG",
+    "parti": "BEBAS",
+    "bilanganUndi": 246,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 183 - BELURAN",
+    "namaCalon": "TOIDY LUIT",
+    "parti": "PCS",
+    "bilanganUndi": 284,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 183 - BELURAN",
+    "namaCalon": "SIPIN BIN KADANDI",
+    "parti": "HR",
+    "bilanganUndi": 996,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 183 - BELURAN",
+    "namaCalon": "JAPAR BIN ZAIRUN",
+    "parti": "WARISAN",
+    "bilanganUndi": 5892,
+    "status": null
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 183 - BELURAN",
+    "namaCalon": "LEM @ SALIM BIN MATIN",
+    "parti": "PPRS",
+    "bilanganUndi": 273,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 184 - LIBARAN",
+    "namaCalon": "DATUK ZAKARIA BIN MOHD. EDRIS @ TUBAU",
+    "parti": "BN",
+    "bilanganUndi": 17799,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 184 - LIBARAN",
+    "namaCalon": "ALFIAN BIN MANSYUR",
+    "parti": "HR",
+    "bilanganUndi": 1223,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 184 - LIBARAN",
+    "namaCalon": "IRWANSHAH BIN MUSTAPA",
+    "parti": "WARISAN",
+    "bilanganUndi": 17121,
+    "status": null
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 185 - BATU SAPI",
+    "namaCalon": "NORSAH BINTI BONGSU",
+    "parti": "PAS",
+    "bilanganUndi": 948,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 185 - BATU SAPI",
+    "namaCalon": "TSEN THAU LIN",
+    "parti": "BN",
+    "bilanganUndi": 8357,
+    "status": null
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 185 - BATU SAPI",
+    "namaCalon": "LIEW VUI KEONG",
+    "parti": "WARISAN",
+    "bilanganUndi": 12976,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 185 - BATU SAPI",
+    "namaCalon": "HAMZA BIN A. ABDULLAH @ HAMZAH",
+    "parti": "AMANAH",
+    "bilanganUndi": 980,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 186 - SANDAKAN",
+    "namaCalon": "LIM MING HOO",
+    "parti": "BN",
+    "bilanganUndi": 8996,
+    "status": null
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 186 - SANDAKAN",
+    "namaCalon": "WONG TIEN FATT @ WONG NYUK FOH",
+    "parti": "DAP",
+    "bilanganUndi": 19094,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 187 - KINABATANGAN",
+    "namaCalon": "DATO ' SRI MOKTAR BIN RADIN",
+    "parti": "BN",
+    "bilanganUndi": 14465,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 187 - KINABATANGAN",
+    "namaCalon": "MUSTAPA BIN DATU TAMBUYONG",
+    "parti": "HR",
+    "bilanganUndi": 2066,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 187 - KINABATANGAN",
+    "namaCalon": "M A GHAZALI BIN ABDUL GHANI",
+    "parti": "WARISAN",
+    "bilanganUndi": 4987,
+    "status": null
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 188 - SILAM",
+    "namaCalon": "MOHAMADDIN BIN KETAPI",
+    "parti": "WARISAN",
+    "bilanganUndi": 23352,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 188 - SILAM",
+    "namaCalon": "RAMLI BIN PATARUDDIN ",
+    "parti": "PAS",
+    "bilanganUndi": 1431,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 188 - SILAM",
+    "namaCalon": "SITI SHAZIANTI BINTI AJAK",
+    "parti": "HR",
+    "bilanganUndi": 1306,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 188 - SILAM",
+    "namaCalon": "DATU NASRUN BIN DATU MANSUR",
+    "parti": "BN",
+    "bilanganUndi": 16951,
+    "status": null
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 189 - SEMPORNA",
+    "namaCalon": "DATUK RAMLEE BIN MARAHABAN",
+    "parti": "BN",
+    "bilanganUndi": 6135,
+    "status": null
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 189 - SEMPORNA",
+    "namaCalon": "ABDUL NASIR BIN AB RAUP",
+    "parti": "PAS",
+    "bilanganUndi": 384,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 189 - SEMPORNA",
+    "namaCalon": "MOHD SHAFIE BIN APDAL",
+    "parti": "WARISAN",
+    "bilanganUndi": 26809,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 189 - SEMPORNA",
+    "namaCalon": "ASMARA BIN ASMAD",
+    "parti": "HR",
+    "bilanganUndi": 98,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 190 - TAWAU",
+    "namaCalon": "MOHAMAD BIN HUSAIN",
+    "parti": "PAS",
+    "bilanganUndi": 2518,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 190 - TAWAU",
+    "namaCalon": "ALIZAMAN BIN JIJURAHMAN",
+    "parti": "HR",
+    "bilanganUndi": 2162,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 190 - TAWAU",
+    "namaCalon": "YAP KAIN CHING @ MARY YAP KEN JIN",
+    "parti": "BN",
+    "bilanganUndi": 16673,
+    "status": null
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 190 - TAWAU",
+    "namaCalon": "LIEW CHIN JIN",
+    "parti": "PKR",
+    "bilanganUndi": 21400,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 191 - KALABAKAN",
+    "namaCalon": "NORBIN BIN ALOH",
+    "parti": "PAS",
+    "bilanganUndi": 2813,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 191 - KALABAKAN",
+    "namaCalon": "MA'MUN BIN SULAIMAN",
+    "parti": "WARISAN",
+    "bilanganUndi": 18486,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 191 - KALABAKAN",
+    "namaCalon": "AHMAD BIN LAHAMA",
+    "parti": "PPRS",
+    "bilanganUndi": 311,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SABAH",
+    "bahagianPilihanRaya": "P. 191 - KALABAKAN",
+    "namaCalon": "DATUK SERI PANGLIMA ABDUL GHAPUR BIN SALLEH",
+    "parti": "BN",
+    "bilanganUndi": 15299,
+    "status": null
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 192 - MAS GADING",
+    "namaCalon": "NOGEH ANAK GUMBEK",
+    "parti": "BN",
+    "bilanganUndi": 9747,
+    "status": null
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 192 - MAS GADING",
+    "namaCalon": "MORDI ANAK BIMOL",
+    "parti": "DAP",
+    "bilanganUndi": 12771,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 193 - SANTUBONG",
+    "namaCalon": "MOHAMAD FIDZUAN BIN ZAIDI",
+    "parti": "PKR",
+    "bilanganUndi": 6894,
+    "status": null
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 193 - SANTUBONG",
+    "namaCalon": "WAN JUNAIDI BIN TUANKU JAAFAR",
+    "parti": "BN",
+    "bilanganUndi": 26379,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 194 - PETRA JAYA",
+    "namaCalon": "HAMDAN BIN SANI",
+    "parti": "PAS",
+    "bilanganUndi": 1350,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 194 - PETRA JAYA",
+    "namaCalon": "NOR IRWAN BIN AHMAT NOR",
+    "parti": "PKR",
+    "bilanganUndi": 13289,
+    "status": null
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 194 - PETRA JAYA",
+    "namaCalon": "FADILLAH BIN YUSOF",
+    "parti": "BN",
+    "bilanganUndi": 28306,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 195 - BANDAR KUCHING",
+    "namaCalon": "KHO TECK WAN",
+    "parti": "BN",
+    "bilanganUndi": 12575,
+    "status": null
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 195 - BANDAR KUCHING",
+    "namaCalon": "KELVIN YII LEE WUEN",
+    "parti": "DAP",
+    "bilanganUndi": 48548,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 196 - STAMPIN",
+    "namaCalon": "SIM KUI HIAN",
+    "parti": "BN",
+    "bilanganUndi": 18839,
+    "status": null
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 196 - STAMPIN",
+    "namaCalon": "CHONG CHIENG JEN",
+    "parti": "DAP",
+    "bilanganUndi": 33060,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 197 - KOTA SAMARAHAN",
+    "namaCalon": "RUBIAH BINTI WANG",
+    "parti": "BN",
+    "bilanganUndi": 25070,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 197 - KOTA SAMARAHAN",
+    "namaCalon": "SOPIAN BIN JULAIHI",
+    "parti": "PKR",
+    "bilanganUndi": 8078,
+    "status": null
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 197 - KOTA SAMARAHAN",
+    "namaCalon": "ZULKIPLI BIN RAMZI",
+    "parti": "PAS",
+    "bilanganUndi": 2719,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 198 - PUNCAK BORNEO",
+    "namaCalon": "BULN ANAK PATRICK RIBOS",
+    "parti": "STAR",
+    "bilanganUndi": 795,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 198 - PUNCAK BORNEO",
+    "namaCalon": "GENOT ANAK SINEL @ JEANNOTH SINEL",
+    "parti": "BN",
+    "bilanganUndi": 14860,
+    "status": null
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 198 - PUNCAK BORNEO",
+    "namaCalon": "WILLIE ANAK MONGIN",
+    "parti": "PKR",
+    "bilanganUndi": 18865,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 199 - SERIAN",
+    "namaCalon": "RICHARD RIOT ANAK JAEM",
+    "parti": "BN",
+    "bilanganUndi": 17545,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 199 - SERIAN",
+    "namaCalon": "EDWARD ANAK ANDREW LUWAK @ EDWARD LUWAK",
+    "parti": "DAP",
+    "bilanganUndi": 7640,
+    "status": null
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 199 - SERIAN",
+    "namaCalon": "SENIOR ANAK WILLIAM RADE",
+    "parti": "BEBAS",
+    "bilanganUndi": 2234,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 200 - BATANG SADONG",
+    "namaCalon": "ASAN BIN SINGKRO",
+    "parti": "PAS",
+    "bilanganUndi": 978,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 200 - BATANG SADONG",
+    "namaCalon": "NANCY BINTI SHUKRI",
+    "parti": "BN",
+    "bilanganUndi": 14208,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 200 - BATANG SADONG",
+    "namaCalon": "OTHMAN BIN MUSTAPHA @ MOS",
+    "parti": "PKR",
+    "bilanganUndi": 1880,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 201 - BATANG LUPAR",
+    "namaCalon": "ROHANI BINTI ABDUL KARIM",
+    "parti": "BN",
+    "bilanganUndi": 14204,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 201 - BATANG LUPAR",
+    "namaCalon": "NARUDIN BIN MENTALI",
+    "parti": "PKR",
+    "bilanganUndi": 2020,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 201 - BATANG LUPAR",
+    "namaCalon": "WAN ABDILLAH BIN WAN AHMAD",
+    "parti": "PAS",
+    "bilanganUndi": 3927,
+    "status": null
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 202 - SRI AMAN",
+    "namaCalon": "MASIR ANAK KUJAT",
+    "parti": "BN",
+    "bilanganUndi": 14141,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 202 - SRI AMAN",
+    "namaCalon": "NORINA UMOI ANAK UTOT",
+    "parti": "PKR",
+    "bilanganUndi": 8321,
+    "status": null
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 202 - SRI AMAN",
+    "namaCalon": "COBBOLD ANAK LUSOI",
+    "parti": "PBDSB",
+    "bilanganUndi": 538,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 203 - LUBOK ANTU",
+    "namaCalon": "ROBERT PASANG ANAK ALAM",
+    "parti": "BN",
+    "bilanganUndi": 4775,
+    "status": null
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 203 - LUBOK ANTU",
+    "namaCalon": "NICHOLAS BAWIN ANAK ANGGAT",
+    "parti": "PKR",
+    "bilanganUndi": 3942,
+    "status": null
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 203 - LUBOK ANTU",
+    "namaCalon": "TAMBAT @ JUGAH AK MUYANG",
+    "parti": "BEBAS",
+    "bilanganUndi": 5834,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 204 - BETONG",
+    "namaCalon": "ROBERT LAWSON CHUAT ",
+    "parti": "BN",
+    "bilanganUndi": 12517,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 204 - BETONG",
+    "namaCalon": "NOEL CHANGGAI BUCKING",
+    "parti": "PKR",
+    "bilanganUndi": 3802,
+    "status": null
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 204 - BETONG",
+    "namaCalon": "ABANG AHMAD BIN ABANG SUNI",
+    "parti": "BEBAS",
+    "bilanganUndi": 4401,
+    "status": null
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 205 - SARATOK",
+    "namaCalon": "JAGAH @ SUBENG ANAK MULA",
+    "parti": "BN",
+    "bilanganUndi": 10859,
+    "status": null
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 205 - SARATOK",
+    "namaCalon": "ALI ANAK BIJU ",
+    "parti": "PKR",
+    "bilanganUndi": 11848,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 206 - TANJONG MANIS",
+    "namaCalon": "MOHAMAD FADILLAH BIN SABALI",
+    "parti": "PKR",
+    "bilanganUndi": 2728,
+    "status": null
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 206 - TANJONG MANIS",
+    "namaCalon": "YUSUF BIN ABD WAHAB",
+    "parti": "BN",
+    "bilanganUndi": 11402,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 207 - IGAN",
+    "namaCalon": "AHMAD JOHNIE BIN ZAWAWI",
+    "parti": "BN",
+    "bilanganUndi": 10538,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 207 - IGAN",
+    "namaCalon": "ANDRI ZULKARNAEN BIN HAMDEN",
+    "parti": "PKR",
+    "bilanganUndi": 2043,
+    "status": null
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 208 - SARIKEI",
+    "namaCalon": "HUANG TIONG SII",
+    "parti": "BN",
+    "bilanganUndi": 13757,
+    "status": null
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 208 - SARIKEI",
+    "namaCalon": "WONG CHIN KING",
+    "parti": "PBK",
+    "bilanganUndi": 392,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 208 - SARIKEI",
+    "namaCalon": "WONG LING BIU",
+    "parti": "DAP",
+    "bilanganUndi": 16327,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 209 - JULAU",
+    "namaCalon": "JOSEPH SALANG ANAK GANDUM",
+    "parti": "BN",
+    "bilanganUndi": 8174,
+    "status": null
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 209 - JULAU",
+    "namaCalon": "LARRY SOON @ LARRY SNG WEI SHIEN",
+    "parti": "BEBAS",
+    "bilanganUndi": 10105,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 210 - KANOWIT",
+    "namaCalon": "AGO ANAK DAGANG",
+    "parti": "BN",
+    "bilanganUndi": 9552,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 210 - KANOWIT",
+    "namaCalon": "SATU ANAK ANCHOM",
+    "parti": "PKR",
+    "bilanganUndi": 5240,
+    "status": null
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 211 - LANANG",
+    "namaCalon": "KONG SIEN CHIU",
+    "parti": "BN",
+    "bilanganUndi": 15359,
+    "status": null
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 211 - LANANG",
+    "namaCalon": "ALICE LAU KIONG YIENG",
+    "parti": "DAP",
+    "bilanganUndi": 29905,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 211 - LANANG",
+    "namaCalon": "PRISCILLA LAU",
+    "parti": "PEACE",
+    "bilanganUndi": 628,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 212 - SIBU",
+    "namaCalon": "TIONG ING TUNG",
+    "parti": "STAR",
+    "bilanganUndi": 176,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 212 - SIBU",
+    "namaCalon": "WONG KEE YEW",
+    "parti": "BN",
+    "bilanganUndi": 22389,
+    "status": null
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 212 - SIBU",
+    "namaCalon": "OSCAR LING CHAI YEW",
+    "parti": "DAP",
+    "bilanganUndi": 33811,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 212 - SIBU",
+    "namaCalon": "TIEW YEN HOUNG",
+    "parti": "PEACE",
+    "bilanganUndi": 377,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 213 - MUKAH",
+    "namaCalon": "HANIFAH HAJAR TAIB",
+    "parti": "BN",
+    "bilanganUndi": 13853,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 213 - MUKAH",
+    "namaCalon": "ABDUL JALIL BIN BUJANG",
+    "parti": "PKR",
+    "bilanganUndi": 6853,
+    "status": null
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 214 - SELANGAU",
+    "namaCalon": "BARU BIAN",
+    "parti": "PKR",
+    "bilanganUndi": 11228,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 214 - SELANGAU",
+    "namaCalon": "RITA SARIMAH ANAK PATRICK INSOL",
+    "parti": "BN",
+    "bilanganUndi": 10742,
+    "status": null
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 215 - KAPIT",
+    "namaCalon": "ALEXANDER NANTA LINGGI",
+    "parti": "BN",
+    "bilanganUndi": 14302,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 215 - KAPIT",
+    "namaCalon": "PAREN ANAK NYAWI",
+    "parti": "DAP",
+    "bilanganUndi": 3823,
+    "status": null
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 216 - HULU RAJANG",
+    "namaCalon": "UGAK ANAK KUMBONG",
+    "parti": "BN",
+    "bilanganUndi": 11834,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 216 - HULU RAJANG",
+    "namaCalon": "ABUN SUI ANYIT",
+    "parti": "PKR",
+    "bilanganUndi": 5519,
+    "status": null
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 217 - BINTULU",
+    "namaCalon": "CHIENG LEA PHING",
+    "parti": "STAR",
+    "bilanganUndi": 328,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 217 - BINTULU",
+    "namaCalon": "TIONG KING SING",
+    "parti": "BN",
+    "bilanganUndi": 27076,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 217 - BINTULU",
+    "namaCalon": "CHIEW CHAN YEW",
+    "parti": "DAP",
+    "bilanganUndi": 20054,
+    "status": null
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 218 - SIBUTI",
+    "namaCalon": "LUKANISMAN BIN AWANG SAUNI",
+    "parti": "BN",
+    "bilanganUndi": 12214,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 218 - SIBUTI",
+    "namaCalon": "JEMAT PANJANG",
+    "parti": "PKR",
+    "bilanganUndi": 8538,
+    "status": null
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 218 - SIBUTI",
+    "namaCalon": "ZULAIHI BIN BAKAR",
+    "parti": "PAS",
+    "bilanganUndi": 1617,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 219 - MIRI",
+    "namaCalon": "SEBASTIAN TING CHIEW YEW",
+    "parti": "BN",
+    "bilanganUndi": 22076,
+    "status": null
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 219 - MIRI",
+    "namaCalon": "MICHAEL TEO YU KENG",
+    "parti": "PKR",
+    "bilanganUndi": 35739,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 220 - BARAM",
+    "namaCalon": "ROLAND ENGAN",
+    "parti": "PKR",
+    "bilanganUndi": 10181,
+    "status": null
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 220 - BARAM",
+    "namaCalon": "ANYI NGAU",
+    "parti": "BN",
+    "bilanganUndi": 12171,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 221 - LIMBANG",
+    "namaCalon": "HASBI BIN HABIBOLLAH",
+    "parti": "BN",
+    "bilanganUndi": 12589,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 221 - LIMBANG",
+    "namaCalon": "RICARDO OSMUND YAMPIL BABA",
+    "parti": "PKR",
+    "bilanganUndi": 4879,
+    "status": null
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 222 - LAWAS",
+    "namaCalon": "HENRY SUM AGONG",
+    "parti": "BN",
+    "bilanganUndi": 10037,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 222 - LAWAS",
+    "namaCalon": "MOHAMAD BIN HAJI BRAHIM",
+    "parti": "BEBAS",
+    "bilanganUndi": 176,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SARAWAK",
+    "bahagianPilihanRaya": "P. 222 - LAWAS",
+    "namaCalon": "DANNY PIRI",
+    "parti": "PKR",
+    "bilanganUndi": 4037,
+    "status": null
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 092 - SABAK BERNAM",
+    "namaCalon": "MOHD FASIAH BIN MOHD FAKEH",
+    "parti": "BN",
+    "bilanganUndi": 12862,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 092 - SABAK BERNAM",
+    "namaCalon": "MUHAMMAD LABIB BIN ABD JALIL ",
+    "parti": "PAS",
+    "bilanganUndi": 9300,
+    "status": null
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 092 - SABAK BERNAM",
+    "namaCalon": "WARNO BIN DOGOL ",
+    "parti": "PKR",
+    "bilanganUndi": 11188,
+    "status": null
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 093 - SUNGAI BESAR",
+    "namaCalon": "BUDIMAN BIN MOHD ZOHDI",
+    "parti": "BN",
+    "bilanganUndi": 16636,
+    "status": null
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 093 - SUNGAI BESAR",
+    "namaCalon": "MOHAMED SALLEH BIN M HUSIN",
+    "parti": "PAS",
+    "bilanganUndi": 7220,
+    "status": null
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 093 - SUNGAI BESAR",
+    "namaCalon": "MUSLIMIN BIN YAHAYA",
+    "parti": "PKR",
+    "bilanganUndi": 17350,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 094 - HULU SELANGOR",
+    "namaCalon": "KUMAR A/L S.PARAMASIVAM",
+    "parti": "BEBAS",
+    "bilanganUndi": 426,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 094 - HULU SELANGOR",
+    "namaCalon": "P.KAMALANATHAN A/L P.PANCHANATHAN",
+    "parti": "BN",
+    "bilanganUndi": 27392,
+    "status": null
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 094 - HULU SELANGOR",
+    "namaCalon": "LEOW HSIAD HUI",
+    "parti": "PKR",
+    "bilanganUndi": 40783,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 094 - HULU SELANGOR",
+    "namaCalon": "WAN MAT BIN SULAIMAN",
+    "parti": "PAS",
+    "bilanganUndi": 16620,
+    "status": null
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 095 - TANJONG KARANG",
+    "namaCalon": "NOH BIN OMAR",
+    "parti": "BN",
+    "bilanganUndi": 17596,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 095 - TANJONG KARANG",
+    "namaCalon": "NOR AZ AZLAN BIN AHMAD",
+    "parti": "PAS",
+    "bilanganUndi": 7276,
+    "status": null
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 095 - TANJONG KARANG",
+    "namaCalon": "ZULKAFPERI BIN HANAPI",
+    "parti": "PKR",
+    "bilanganUndi": 15626,
+    "status": null
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 096 - KUALA SELANGOR",
+    "namaCalon": "IRMOHIZAM BIN IBRAHIM",
+    "parti": "BN",
+    "bilanganUndi": 21344,
+    "status": null
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 096 - KUALA SELANGOR",
+    "namaCalon": "DZULKEFLY BIN AHMAD",
+    "parti": "PKR",
+    "bilanganUndi": 29842,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 096 - KUALA SELANGOR",
+    "namaCalon": "MOHD FAKARUDDIN BIN ISMAIL",
+    "parti": "PAS",
+    "bilanganUndi": 8535,
+    "status": null
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 097 - SELAYANG",
+    "namaCalon": "KANG MENG FUAT",
+    "parti": "BN",
+    "bilanganUndi": 19501,
+    "status": null
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 097 - SELAYANG",
+    "namaCalon": "WILLIAM LEONG JEE KEEN",
+    "parti": "PKR",
+    "bilanganUndi": 60158,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 097 - SELAYANG",
+    "namaCalon": "HASHIM BIN ABDUL KARIM",
+    "parti": "PAS",
+    "bilanganUndi": 18343,
+    "status": null
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 098 - GOMBAK",
+    "namaCalon": "MOHAMED AZMIN BIN ALI",
+    "parti": "PKR",
+    "bilanganUndi": 75113,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 098 - GOMBAK",
+    "namaCalon": "DATUK ABDUL RAHIM BIN PANDAK KAMARUDIN",
+    "parti": "BN",
+    "bilanganUndi": 26392,
+    "status": null
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 098 - GOMBAK",
+    "namaCalon": "KHAIRIL NIZAM BIN KHIRUDIN",
+    "parti": "PAS",
+    "bilanganUndi": 17537,
+    "status": null
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 099 - AMPANG",
+    "namaCalon": "ZURAIDA BINTI KAMARUDDIN",
+    "parti": "PKR",
+    "bilanganUndi": 54307,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 099 - AMPANG",
+    "namaCalon": "LEONG KIM SOON",
+    "parti": "BN",
+    "bilanganUndi": 12351,
+    "status": null
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 099 - AMPANG",
+    "namaCalon": "NURUL ISLAM BIN MOHAMED YUSOFF",
+    "parti": "PAS",
+    "bilanganUndi": 9598,
+    "status": null
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 099 - AMPANG",
+    "namaCalon": "TAN HUA MENG",
+    "parti": "PRM",
+    "bilanganUndi": 294,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 100 - PANDAN",
+    "namaCalon": "MOHAMED SUKRI BIN OMAR",
+    "parti": "PAS",
+    "bilanganUndi": 8336,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 100 - PANDAN",
+    "namaCalon": "LEONG KOK WEE",
+    "parti": "BN",
+    "bilanganUndi": 12190,
+    "status": null
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 100 - PANDAN",
+    "namaCalon": "WAN AZIZAH BINTI WAN ISMAIL",
+    "parti": "PKR",
+    "bilanganUndi": 64733,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 100 - PANDAN",
+    "namaCalon": "LEE YING HA",
+    "parti": "PRM",
+    "bilanganUndi": 442,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 100 - PANDAN",
+    "namaCalon": "MOHD KHAIRUL AZAM BIN ABDUL AZIZ",
+    "parti": "BEBAS",
+    "bilanganUndi": 73,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 101 - HULU LANGAT",
+    "namaCalon": "AZMAN BIN AHMAD",
+    "parti": "BN",
+    "bilanganUndi": 23580,
+    "status": null
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 101 - HULU LANGAT",
+    "namaCalon": "CHE ROSLI BIN CHE MAT",
+    "parti": "PAS",
+    "bilanganUndi": 15663,
+    "status": null
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 101 - HULU LANGAT",
+    "namaCalon": "HASANUDDIN BIN MOHD YUNUS",
+    "parti": "PKR",
+    "bilanganUndi": 49004,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 102 - BANGI",
+    "namaCalon": "LIEW YUEN KEONG",
+    "parti": "BN",
+    "bilanganUndi": 19766,
+    "status": null
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 102 - BANGI",
+    "namaCalon": "MOHD SHAFIE BIN NGAH",
+    "parti": "PAS",
+    "bilanganUndi": 33789,
+    "status": null
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 102 - BANGI",
+    "namaCalon": "WAN JINN WOEI",
+    "parti": "PRM",
+    "bilanganUndi": 215,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 102 - BANGI",
+    "namaCalon": "ONG KIAN MING",
+    "parti": "PKR",
+    "bilanganUndi": 102557,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 103 - PUCHONG",
+    "namaCalon": "MOHAMAD ROSHARIZAN BIN MOHD ROZLAN",
+    "parti": "PAS",
+    "bilanganUndi": 10255,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 103 - PUCHONG",
+    "namaCalon": "ANG CHIN TAT",
+    "parti": "BN",
+    "bilanganUndi": 12794,
+    "status": null
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 103 - PUCHONG",
+    "namaCalon": "GOBIND SINGH DEO",
+    "parti": "PKR",
+    "bilanganUndi": 60429,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 104 - SUBANG",
+    "namaCalon": "TAN SEONG LIM",
+    "parti": "BN",
+    "bilanganUndi": 12077,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 104 - SUBANG",
+    "namaCalon": "MOHD SHAHIR BIN MOHD ADNAN",
+    "parti": "PAS",
+    "bilanganUndi": 9025,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 104 - SUBANG",
+    "namaCalon": "WONG CHEN",
+    "parti": "PKR",
+    "bilanganUndi": 104430,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 104 - SUBANG",
+    "namaCalon": "TOH SIN WAH",
+    "parti": "BEBAS",
+    "bilanganUndi": 173,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 105 - PETALING JAYA ",
+    "namaCalon": "MARIA CHIN BINTI ABDULLAH",
+    "parti": "PKR",
+    "bilanganUndi": 78984,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 105 - PETALING JAYA ",
+    "namaCalon": "CHEW HIAN TAT",
+    "parti": "BN",
+    "bilanganUndi": 21847,
+    "status": null
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 105 - PETALING JAYA ",
+    "namaCalon": "NORAINI BINTI HUSSIN ",
+    "parti": "PAS",
+    "bilanganUndi": 14448,
+    "status": null
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 106 - DAMANSARA",
+    "namaCalon": "HO KWOK XHENG",
+    "parti": "BN",
+    "bilanganUndi": 14380,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 106 - DAMANSARA",
+    "namaCalon": "PUA KIAM WEE",
+    "parti": "PKR",
+    "bilanganUndi": 121283,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 106 - DAMANSARA",
+    "namaCalon": "'DATO' WONG MUN KHEONG",
+    "parti": "PRM",
+    "bilanganUndi": 617,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 107 - SUNGAI BULOH",
+    "namaCalon": "SIVARASA A/L K.RASIAH",
+    "parti": "PKR",
+    "bilanganUndi": 43631,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 107 - SUNGAI BULOH",
+    "namaCalon": "NURIDAH BINTI MOHD SALLEH",
+    "parti": "PAS",
+    "bilanganUndi": 16997,
+    "status": null
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 107 - SUNGAI BULOH",
+    "namaCalon": "PAKAS RAO A/L APPLANAIDOO",
+    "parti": "BN",
+    "bilanganUndi": 16681,
+    "status": null
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 107 - SUNGAI BULOH",
+    "namaCalon": "ZAINURRIZZAMAN BIN MOHRAM",
+    "parti": "PSM",
+    "bilanganUndi": 642,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 108 - SHAH ALAM",
+    "namaCalon": "AZHARI BIN SHAARI",
+    "parti": "BN",
+    "bilanganUndi": 22100,
+    "status": null
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 108 - SHAH ALAM",
+    "namaCalon": "MOHD ZUHDI BIN MARSUKI",
+    "parti": "PAS",
+    "bilanganUndi": 15194,
+    "status": null
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 108 - SHAH ALAM",
+    "namaCalon": "KHALID BIN ABD SAMAD",
+    "parti": "PKR",
+    "bilanganUndi": 55949,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 109 - KAPAR",
+    "namaCalon": "ABDULLAH SANI BIN ABDUL HAMID",
+    "parti": "PKR",
+    "bilanganUndi": 47731,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 109 - KAPAR",
+    "namaCalon": "MOHANA A/P MUNIANDY RAMAN",
+    "parti": "BN",
+    "bilanganUndi": 26412,
+    "status": null
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 109 - KAPAR",
+    "namaCalon": "MANIKAVASAGAM A/L SUNDARAM",
+    "parti": "PRM",
+    "bilanganUndi": 525,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 109 - KAPAR",
+    "namaCalon": "ABD RANI BIN OSMAN",
+    "parti": "PAS",
+    "bilanganUndi": 31425,
+    "status": null
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 110 - KLANG",
+    "namaCalon": "KHAIRUL SHAH BIN ABDULLAH",
+    "parti": "PAS",
+    "bilanganUndi": 9169,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 110 - KLANG",
+    "namaCalon": "CHING EU BOON",
+    "parti": "BN",
+    "bilanganUndi": 19506,
+    "status": null
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 110 - KLANG",
+    "namaCalon": "CHARLES ANTHONY A/L R.SANTIAGO ",
+    "parti": "PKR",
+    "bilanganUndi": 98279,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 110 - KLANG",
+    "namaCalon": "PUVANANDERAN A/L GANASAMOORTHY",
+    "parti": "BEBAS",
+    "bilanganUndi": 120,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 111 - KOTA RAJA",
+    "namaCalon": "V.GUNALAN A/L VELU",
+    "parti": "BN",
+    "bilanganUndi": 17874,
+    "status": null
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 111 - KOTA RAJA",
+    "namaCalon": "MOHAMED DIAH BIN BAHARUN",
+    "parti": "PAS",
+    "bilanganUndi": 19555,
+    "status": null
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 111 - KOTA RAJA",
+    "namaCalon": "MOHAMAD BIN SABU",
+    "parti": "PKR",
+    "bilanganUndi": 90697,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 112 - KUALA LANGAT",
+    "namaCalon": "YAHYA BIN BABA",
+    "parti": "PAS",
+    "bilanganUndi": 18731,
+    "status": null
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 112 - KUALA LANGAT",
+    "namaCalon": "XAVIER JAYAKUMAR A/L ARULANANDAM",
+    "parti": "PKR",
+    "bilanganUndi": 43239,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 112 - KUALA LANGAT",
+    "namaCalon": "SHAHRIL SUFIAN BIN HAMDAN",
+    "parti": "BN",
+    "bilanganUndi": 26127,
+    "status": null
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 113 - SEPANG",
+    "namaCalon": "MARSUM BIN PAING",
+    "parti": "BN",
+    "bilanganUndi": 28035,
+    "status": null
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 113 - SEPANG",
+    "namaCalon": "MOHAMED HANIPA BIN MAIDIN",
+    "parti": "PKR",
+    "bilanganUndi": 46740,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "SELANGOR",
+    "bahagianPilihanRaya": "P. 113 - SEPANG",
+    "namaCalon": "SABIRIN BIN MARSONO",
+    "parti": "PAS",
+    "bilanganUndi": 15882,
+    "status": null
+  },
+  {
+    "negeri": "TERENGGANU",
+    "bahagianPilihanRaya": "P. 033 - BESUT",
+    "namaCalon": "WAN NAZARI BIN WAN JUSOH",
+    "parti": "PKR",
+    "bilanganUndi": 6864,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "TERENGGANU",
+    "bahagianPilihanRaya": "P. 033 - BESUT",
+    "namaCalon": "IDRIS BIN JUSOH",
+    "parti": "BN",
+    "bilanganUndi": 34335,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "TERENGGANU",
+    "bahagianPilihanRaya": "P. 033 - BESUT",
+    "namaCalon": "RIDUAN BIN MOHAMAD NOR",
+    "parti": "PAS",
+    "bilanganUndi": 29736,
+    "status": null
+  },
+  {
+    "negeri": "TERENGGANU",
+    "bahagianPilihanRaya": "P. 034 - SETIU",
+    "namaCalon": "MOHD JIDIN BIN SHAFEE",
+    "parti": "BN",
+    "bilanganUndi": 32218,
+    "status": null
+  },
+  {
+    "negeri": "TERENGGANU",
+    "bahagianPilihanRaya": "P. 034 - SETIU",
+    "namaCalon": "MOHD FAUDZI BIN MUSA",
+    "parti": "PKR",
+    "bilanganUndi": 4740,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "TERENGGANU",
+    "bahagianPilihanRaya": "P. 034 - SETIU",
+    "namaCalon": "SHAHARIZUKIRNAIN BIN ABD KADIR",
+    "parti": "PAS",
+    "bilanganUndi": 35020,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "TERENGGANU",
+    "bahagianPilihanRaya": "P. 035 - KUALA NERUS",
+    "namaCalon": "TENGKU ASMADI BIN TENGKU MOHAMAD",
+    "parti": "BN",
+    "bilanganUndi": 29527,
+    "status": null
+  },
+  {
+    "negeri": "TERENGGANU",
+    "bahagianPilihanRaya": "P. 035 - KUALA NERUS",
+    "namaCalon": "MOHD KHAIRUDDIN BIN AMAN RAZALI",
+    "parti": "PAS",
+    "bilanganUndi": 37974,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "TERENGGANU",
+    "bahagianPilihanRaya": "P. 035 - KUALA NERUS",
+    "namaCalon": "ABDULLAH BIN MOHAMED",
+    "parti": "PKR",
+    "bilanganUndi": 4604,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "TERENGGANU",
+    "bahagianPilihanRaya": "P. 036 - KUALA TERENGGANU",
+    "namaCalon": "RAJA KAMARUL BAHRIN SHAH ",
+    "parti": "PKR",
+    "bilanganUndi": 15380,
+    "status": null
+  },
+  {
+    "negeri": "TERENGGANU",
+    "bahagianPilihanRaya": "P. 036 - KUALA TERENGGANU",
+    "namaCalon": "WAN NAWAWI BIN HAJI WAN ISMAIL",
+    "parti": "BN",
+    "bilanganUndi": 28215,
+    "status": null
+  },
+  {
+    "negeri": "TERENGGANU",
+    "bahagianPilihanRaya": "P. 036 - KUALA TERENGGANU",
+    "namaCalon": "AHMAD AMZAD BIN MOHAMED @ HASHIM",
+    "parti": "PAS",
+    "bilanganUndi": 42988,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "TERENGGANU",
+    "bahagianPilihanRaya": "P. 037 - MARANG",
+    "namaCalon": "MOHAMAD NOR BIN ENDOT",
+    "parti": "BN",
+    "bilanganUndi": 31795,
+    "status": null
+  },
+  {
+    "negeri": "TERENGGANU",
+    "bahagianPilihanRaya": "P. 037 - MARANG",
+    "namaCalon": "ABDUL HADI BIN AWANG",
+    "parti": "PAS",
+    "bilanganUndi": 53749,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "TERENGGANU",
+    "bahagianPilihanRaya": "P. 037 - MARANG",
+    "namaCalon": "ZARAWI BIN SULONG",
+    "parti": "PKR",
+    "bilanganUndi": 5138,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "TERENGGANU",
+    "bahagianPilihanRaya": "P. 038 - HULU TERENGGANU",
+    "namaCalon": "RAZALI BIN IDRIS",
+    "parti": "PKR",
+    "bilanganUndi": 3364,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "TERENGGANU",
+    "bahagianPilihanRaya": "P. 038 - HULU TERENGGANU",
+    "namaCalon": "ROSOL BIN WAHID",
+    "parti": "BN",
+    "bilanganUndi": 30925,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "TERENGGANU",
+    "bahagianPilihanRaya": "P. 038 - HULU TERENGGANU",
+    "namaCalon": "MUHYIDIN BIN ABDUL RASHID",
+    "parti": "PAS",
+    "bilanganUndi": 28057,
+    "status": null
+  },
+  {
+    "negeri": "TERENGGANU",
+    "bahagianPilihanRaya": "P. 039 - DUNGUN",
+    "namaCalon": "WAN HASSAN BIN MOHD RAMLI ",
+    "parti": "PAS",
+    "bilanganUndi": 40850,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "TERENGGANU",
+    "bahagianPilihanRaya": "P. 039 - DUNGUN",
+    "namaCalon": "DIN BIN ADAM",
+    "parti": "BN",
+    "bilanganUndi": 27731,
+    "status": null
+  },
+  {
+    "negeri": "TERENGGANU",
+    "bahagianPilihanRaya": "P. 039 - DUNGUN",
+    "namaCalon": "ABD RAHMAN BIN YUSOF ",
+    "parti": "PKR",
+    "bilanganUndi": 6833,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "TERENGGANU",
+    "bahagianPilihanRaya": "P. 040 - KEMAMAN",
+    "namaCalon": "AHD SHABERY BIN CHEEK",
+    "parti": "BN",
+    "bilanganUndi": 37715,
+    "status": null
+  },
+  {
+    "negeri": "TERENGGANU",
+    "bahagianPilihanRaya": "P. 040 - KEMAMAN",
+    "namaCalon": "MOHD. HUZAIFAH BIN MD. SUHAIMI",
+    "parti": "PKR",
+    "bilanganUndi": 12911,
+    "status": null
+  },
+  {
+    "negeri": "TERENGGANU",
+    "bahagianPilihanRaya": "P. 040 - KEMAMAN",
+    "namaCalon": "CHE ALIAS BIN HAMID",
+    "parti": "PAS",
+    "bilanganUndi": 39878,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "WP KUALA LUMPUR",
+    "bahagianPilihanRaya": "P. 114 - KEPONG",
+    "namaCalon": "ONG SIANG LIANG",
+    "parti": "BN",
+    "bilanganUndi": 4888,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "WP KUALA LUMPUR",
+    "bahagianPilihanRaya": "P. 114 - KEPONG",
+    "namaCalon": "LIM LIP ENG",
+    "parti": "PKR",
+    "bilanganUndi": 56516,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "WP KUALA LUMPUR",
+    "bahagianPilihanRaya": "P. 115 - BATU",
+    "namaCalon": "VM PANJAMOTHY A/L MUTHUSAMY",
+    "parti": "BEBAS",
+    "bilanganUndi": 383,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "WP KUALA LUMPUR",
+    "bahagianPilihanRaya": "P. 115 - BATU",
+    "namaCalon": "DOMINIC LAU HOE CHAI",
+    "parti": "BN",
+    "bilanganUndi": 13687,
+    "status": null
+  },
+  {
+    "negeri": "WP KUALA LUMPUR",
+    "bahagianPilihanRaya": "P. 115 - BATU",
+    "namaCalon": "AZHAR BIN YAHYA",
+    "parti": "PAS",
+    "bilanganUndi": 10610,
+    "status": null
+  },
+  {
+    "negeri": "WP KUALA LUMPUR",
+    "bahagianPilihanRaya": "P. 115 - BATU",
+    "namaCalon": "PRABAKARAN A/L M PARAMESWARAN",
+    "parti": "BEBAS",
+    "bilanganUndi": 38125,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "WP KUALA LUMPUR",
+    "bahagianPilihanRaya": "P. 116 - WANGSA MAJU",
+    "namaCalon": "RAZALI BIN TUMIRIN",
+    "parti": "PAS",
+    "bilanganUndi": 13490,
+    "status": null
+  },
+  {
+    "negeri": "WP KUALA LUMPUR",
+    "bahagianPilihanRaya": "P. 116 - WANGSA MAJU",
+    "namaCalon": "YEW TEONG LOOK",
+    "parti": "BN",
+    "bilanganUndi": 17940,
+    "status": null
+  },
+  {
+    "negeri": "WP KUALA LUMPUR",
+    "bahagianPilihanRaya": "P. 116 - WANGSA MAJU",
+    "namaCalon": "DR.TAN YEE KEW",
+    "parti": "PKR",
+    "bilanganUndi": 42178,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "WP KUALA LUMPUR",
+    "bahagianPilihanRaya": "P. 117 - SEGAMBUT",
+    "namaCalon": "MOHD SOLLEH BIN AB RAZAK",
+    "parti": "PAS",
+    "bilanganUndi": 4181,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "WP KUALA LUMPUR",
+    "bahagianPilihanRaya": "P. 117 - SEGAMBUT",
+    "namaCalon": "YEOH TSEOW SUAN",
+    "parti": "PKR",
+    "bilanganUndi": 53124,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "WP KUALA LUMPUR",
+    "bahagianPilihanRaya": "P. 117 - SEGAMBUT",
+    "namaCalon": "LOGA BALA MOHAN A/L JAGANATHAN ",
+    "parti": "BN",
+    "bilanganUndi": 7422,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "WP KUALA LUMPUR",
+    "bahagianPilihanRaya": "P. 118 - SETIAWANGSA",
+    "namaCalon": "ZULHASNAN BIN RAFIQUE",
+    "parti": "BN",
+    "bilanganUndi": 20099,
+    "status": null
+  },
+  {
+    "negeri": "WP KUALA LUMPUR",
+    "bahagianPilihanRaya": "P. 118 - SETIAWANGSA",
+    "namaCalon": "NIK NAZMI BIN NIK AHMAD",
+    "parti": "PKR",
+    "bilanganUndi": 34471,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "WP KUALA LUMPUR",
+    "bahagianPilihanRaya": "P. 118 - SETIAWANGSA",
+    "namaCalon": "UBAID BIN ABD AKLA",
+    "parti": "PAS",
+    "bilanganUndi": 6282,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "WP KUALA LUMPUR",
+    "bahagianPilihanRaya": "P. 119 - TITIWANGSA",
+    "namaCalon": "MOHAMAD NOOR BIN MOHAMAD",
+    "parti": "PAS",
+    "bilanganUndi": 6845,
+    "status": null
+  },
+  {
+    "negeri": "WP KUALA LUMPUR",
+    "bahagianPilihanRaya": "P. 119 - TITIWANGSA",
+    "namaCalon": "RINA BINTI MOHD HARUN",
+    "parti": "PKR",
+    "bilanganUndi": 23840,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "WP KUALA LUMPUR",
+    "bahagianPilihanRaya": "P. 119 - TITIWANGSA",
+    "namaCalon": "DATUK SERI JOHARI BIN ABDUL GHANI",
+    "parti": "BN",
+    "bilanganUndi": 19701,
+    "status": null
+  },
+  {
+    "negeri": "WP KUALA LUMPUR",
+    "bahagianPilihanRaya": "P. 120 - BUKIT BINTANG",
+    "namaCalon": "FONG KUI LUN",
+    "parti": "PKR",
+    "bilanganUndi": 44516,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "WP KUALA LUMPUR",
+    "bahagianPilihanRaya": "P. 120 - BUKIT BINTANG",
+    "namaCalon": "TAN EAN EAN ",
+    "parti": "BN",
+    "bilanganUndi": 7256,
+    "status": null
+  },
+  {
+    "negeri": "WP KUALA LUMPUR",
+    "bahagianPilihanRaya": "P. 120 - BUKIT BINTANG",
+    "namaCalon": "KHAIRUL HUSNI BIN OTHMAN",
+    "parti": "PFP",
+    "bilanganUndi": 636,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "WP KUALA LUMPUR",
+    "bahagianPilihanRaya": "P. 121 - LEMBAH PANTAI",
+    "namaCalon": "RAJA NONG CHIK BIN RAJA ZAINAL ABIDIN",
+    "parti": "BN",
+    "bilanganUndi": 27715,
+    "status": null
+  },
+  {
+    "negeri": "WP KUALA LUMPUR",
+    "bahagianPilihanRaya": "P. 121 - LEMBAH PANTAI",
+    "namaCalon": "AHMAD FAHMI BIN MOHAMED FADZIL",
+    "parti": "PKR",
+    "bilanganUndi": 33313,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "WP KUALA LUMPUR",
+    "bahagianPilihanRaya": "P. 121 - LEMBAH PANTAI",
+    "namaCalon": "FAUZI BIN ABU BAKAR",
+    "parti": "PAS",
+    "bilanganUndi": 5277,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "WP KUALA LUMPUR",
+    "bahagianPilihanRaya": "P. 122 - SEPUTEH",
+    "namaCalon": "TERESA KOK SUH SIM",
+    "parti": "PKR",
+    "bilanganUndi": 63094,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "WP KUALA LUMPUR",
+    "bahagianPilihanRaya": "P. 122 - SEPUTEH",
+    "namaCalon": "CHAN QUIN ER",
+    "parti": "BN",
+    "bilanganUndi": 7035,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "WP KUALA LUMPUR",
+    "bahagianPilihanRaya": "P. 123 - CHERAS",
+    "namaCalon": "TAN KOK WAI",
+    "parti": "PKR",
+    "bilanganUndi": 56671,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "WP KUALA LUMPUR",
+    "bahagianPilihanRaya": "P. 123 - CHERAS",
+    "namaCalon": "HENG SINN YEE",
+    "parti": "BN",
+    "bilanganUndi": 7006,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "WP KUALA LUMPUR",
+    "bahagianPilihanRaya": "P. 124 - BANDAR TUN RAZAK",
+    "namaCalon": "ROSNI BINTI ADAM",
+    "parti": "PAS",
+    "bilanganUndi": 7884,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "WP KUALA LUMPUR",
+    "bahagianPilihanRaya": "P. 124 - BANDAR TUN RAZAK",
+    "namaCalon": "KAMARUDIN BIN JAFFAR",
+    "parti": "PKR",
+    "bilanganUndi": 41126,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "WP KUALA LUMPUR",
+    "bahagianPilihanRaya": "P. 124 - BANDAR TUN RAZAK",
+    "namaCalon": "ADNAN BIN SEMAN @ ABDULLAH",
+    "parti": "BN",
+    "bilanganUndi": 21196,
+    "status": null
+  },
+  {
+    "negeri": "WP LABUAN",
+    "bahagianPilihanRaya": "P. 166 - LABUAN",
+    "namaCalon": "ROZMAN BIN ISLI",
+    "parti": "BN",
+    "bilanganUndi": 10164,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "WP LABUAN",
+    "bahagianPilihanRaya": "P. 166 - LABUAN",
+    "namaCalon": "NOOR HALIM BIN ZAINI",
+    "parti": "WARISAN",
+    "bilanganUndi": 8714,
+    "status": null
+  },
+  {
+    "negeri": "WP LABUAN",
+    "bahagianPilihanRaya": "P. 166 - LABUAN",
+    "namaCalon": "SITI ZALEHA S.W.IBRAHIM",
+    "parti": "HR",
+    "bilanganUndi": 925,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "WP LABUAN",
+    "bahagianPilihanRaya": "P. 166 - LABUAN",
+    "namaCalon": "AHMAD JUNID @ JUNIT B.MOHD ALING @ ALING",
+    "parti": "PAS",
+    "bilanganUndi": 1555,
+    "status": "HILANG DEPOSIT"
+  },
+  {
+    "negeri": "WP PUTRAJAYA",
+    "bahagianPilihanRaya": "P. 125 - PUTRAJAYA",
+    "namaCalon": "TENGKU ADNAN BIN TENGKU MANSOR",
+    "parti": "BN",
+    "bilanganUndi": 12148,
+    "status": "MENANG"
+  },
+  {
+    "negeri": "WP PUTRAJAYA",
+    "bahagianPilihanRaya": "P. 125 - PUTRAJAYA",
+    "namaCalon": "ZAINAL ABIDIN BIN KIDAM",
+    "parti": "PAS",
+    "bilanganUndi": 3634,
+    "status": null
+  },
+  {
+    "negeri": "WP PUTRAJAYA",
+    "bahagianPilihanRaya": "P. 125 - PUTRAJAYA",
+    "namaCalon": "SAMSU ADABI BIN MAMAT",
+    "parti": "PKR",
+    "bilanganUndi": 8776,
+    "status": null
+  }
+]
