@@ -95,3 +95,13 @@
   border-bottom: 20px #0b30ff solid;
   rotate: 45deg;
 }
+
+.checkbox {
+  visibility: hidden;
+  display: none;
+}
+
+.flag-img {
+  border: 1px #0000001f solid;
+  max-width: 100%;
+}

@@ -63,6 +63,7 @@ type Result = {
 
 function App() {
   const [results, setResults] = useState<Result[]>();
+  const [loading, setLoading] = useState<boolean>(true);
   const [selectedState, setSelectedState] = useState<string>();
   const [filterOpen, setFilterOpen] = useState(false);
 
@@ -71,8 +72,9 @@ function App() {
       .then((res) => res.json())
       .then((res: Result[]) => {
         setResults(res);
+        setLoading(false);
 
-        if (!!res[0].negeri) {
+        if (res[0].negeri) {
           setSelectedState(res[0].negeri);
         }
       });
@@ -103,113 +105,120 @@ function App() {
     return res;
   }, [results]);
 
-  console.log(DownIcon);
-
   const states = useMemo(() => {
     return [...new Set(results?.map((r) => r.negeri))];
   }, [results]);
 
-  console.log(filterOpen);
+  const filter = useMemo(() => {
+    const toggle = (
+      <button onClick={() => setFilterOpen((open) => !open)}>
+        Select State <DownIcon className="toggle-icon" data-open={filterOpen} />
+      </button>
+    );
+
+    if (!filterOpen) return toggle;
+
+    return (
+      <>
+        {toggle}
+        <div className="states">
+          {states.map((state) => {
+            if (!state) return null;
+
+            return (
+              <label htmlFor={state} key={state} className="state-label">
+                <div className="state" data-checked={selectedState === state}>
+                  <input
+                    className="checkbox"
+                    type="checkbox"
+                    checked={selectedState === state}
+                    onChange={() => {
+                      setFilterOpen(false);
+                      setSelectedState(state);
+                    }}
+                    id={state}
+                  />
+                  <div>
+                    <img src={flagMap[state]} width={25} className="flag-img" />{" "}
+                    {state}
+                  </div>
+                </div>
+              </label>
+            );
+          })}
+        </div>
+        <hr />
+      </>
+    );
+  }, [filterOpen, states, selectedState]);
+
+  const content = useMemo(() => {
+    if (!selectedState) return null;
+
+    return (
+      <div>
+        <h3>{selectedState}</h3>
+
+        {Object.keys(groupByState[selectedState]).map((zone) => {
+          return (
+            <div key={zone} className="zone-wrapper">
+              <div className="zone">
+                <span>{zone}</span>
+              </div>
+              <div className="candidates">
+                {groupByState[selectedState][zone].map((datum) => {
+                  return (
+                    <div
+                      key={datum.namaCalon}
+                      className="candidate"
+                      data-status={datum.status}
+                    >
+                      <span className="party">
+                        {datum.parti && (
+                          <img
+                            src={partyMap[datum.parti] ?? placeholder}
+                            alt={datum.parti}
+                            className="party-flag"
+                          />
+                        )}
+                        <span>{datum.parti}</span>
+                      </span>
+                      <span>
+                        {datum.namaCalon}{" "}
+                        <strong>[{datum.bilanganUndi}]</strong>
+                      </span>
+                    </div>
+                  );
+                })}
+              </div>
+            </div>
+          );
+        })}
+      </div>
+    );
+  }, [groupByState, selectedState]);
+
   return (
     <>
       <h2>Malaysia 14th General Election Parliament Result</h2>
 
-      <button onClick={() => setFilterOpen((open) => !open)}>
-        Select State <DownIcon className="toggle-icon" data-open={filterOpen} />
-      </button>
-
-      {filterOpen && (
+      {loading ? (
+        <p>Loading...</p>
+      ) : (
         <>
-          <div className="states">
-            {states.map((state) => {
-              if (!state) return null;
-
-              return (
-                <label htmlFor={state} key={state} className="state-label">
-                  <div className="state" data-checked={selectedState === state}>
-                    <input
-                      style={{ visibility: "hidden", display: "none" }}
-                      type="checkbox"
-                      checked={selectedState === state}
-                      onChange={() => {
-                        setFilterOpen(false);
-                        setSelectedState(state);
-                      }}
-                      id={state}
-                    />
-                    <div>
-                      <img
-                        src={flagMap[state]}
-                        width={25}
-                        style={{
-                          border: "1px #0000001f solid",
-                          maxWidth: "100%",
-                        }}
-                      />{" "}
-                      {state}
-                    </div>
-                  </div>
-                </label>
-              );
-            })}
-          </div>
-          <hr />
+          {filter}
+          {content}
         </>
       )}
-      {selectedState && (
-        <>
-          <div>
-            <div style={{ background: "#ffffff1f" }}>
-              <h3>{selectedState}</h3>
 
-              {Object.keys(groupByState[selectedState]).map((zone) => {
-                return (
-                  <div key={zone} className="zone-wrapper">
-                    <div className="zone">
-                      <span>{zone}</span>
-                    </div>
-                    <div className="candidates">
-                      {groupByState[selectedState][zone].map((datum) => {
-                        return (
-                          <div
-                            key={datum.namaCalon}
-                            className="candidate"
-                            data-status={datum.status}
-                          >
-                            <span className="party">
-                              {datum.parti && (
-                                <img
-                                  src={partyMap[datum.parti] ?? placeholder}
-                                  alt={datum.parti}
-                                  className="party-flag"
-                                />
-                              )}
-                              <span>{datum.parti}</span>
-                            </span>
-                            <span>
-                              {datum.namaCalon}{" "}
-                              <strong>[{datum.bilanganUndi}]</strong>
-                            </span>
-                          </div>
-                        );
-                      })}
-                    </div>
-                  </div>
-                );
-              })}
-            </div>
-          </div>
-
-          <div>
-            <span>
-              Disclaimer: All data is obtained from{" "}
-              <a href="https://www.data.gov.my/" target="_blank">
-                DATA TERBUKA
-              </a>
-            </span>
-          </div>
-        </>
-      )}
+      <div>
+        <span>
+          Disclaimer: All data is obtained from{" "}
+          <a href="https://www.data.gov.my/" target="_blank">
+            DATA TERBUKA
+          </a>
+        </span>
+      </div>
     </>
   );
 }
